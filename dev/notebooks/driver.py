@@ -5,8 +5,8 @@
 import sys
 
 sys.path.insert(0, "../../")
-# %%
-from workoutfilemanager.Animal import Animal
 
-tiger = Animal("Tiger", "roooar")
-tiger.speak()
+# %%
+from workoutfilemanager.WorkoutFileManager import WorkoutFileManager
+wfm = WorkoutFileManager()
+

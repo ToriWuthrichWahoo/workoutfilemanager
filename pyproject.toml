@@ -31,9 +31,12 @@ m2r2 = { version = "^0.3", optional = true }
 tomlkit = { version = "^0.10", optional = true }
 
 rich = "^12.2.0"
-# matplotlib = "^3.5.1"
-# numpy = "^1.22.3"
-# pandas = "^1.4.2"
+pandas = "^1.4.2"
+numpy = "^1.22.3"
+matplotlib = "^3.5.1"
+gpx-converter = "^2.0.0"
+pynmeagps = "^1.0.8"
+
 
 
 [tool.poetry.dev-dependencies]
