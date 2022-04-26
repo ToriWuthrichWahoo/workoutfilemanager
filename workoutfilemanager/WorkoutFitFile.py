@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 from .WorkoutFile import WorkoutFile
-from workoutfilemanager.paths import Paths
+from workoutfilemanager.paths.Paths import Paths
 
 
 class WorkoutFitFile(WorkoutFile):

@@ -8,5 +8,6 @@ sys.path.insert(0, "../../")
 
 # %%
 from workoutfilemanager.WorkoutFileManager import WorkoutFileManager
-wfm = WorkoutFileManager()
+manager = WorkoutFileManager()
+manager.add("/Users/toriwuthrich/Documents/data/bolt/backup_ascent_descent_logs/20211002_TW_hilly_gravel_ride/2021-10-02-144309-ELEMNT_BOLT_981E-29-0.fit")
 
