@@ -1,0 +1,1000 @@
+--------- beginning of main
+10-02 15:42:56.260  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 35 lines
+10-02 15:42:56.276  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 2 lines
+10-02 15:42:56.279  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 6 lines
+10-02 15:42:56.285  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 17 lines
+10-02 15:42:56.293  1363  1516 I chatty  : uid=10047(com.wahoofitness.bolt) StdApp expire 1 line
+10-02 15:42:56.308  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 8 lines
+10-02 15:42:56.897  1363  1433 I chatty  : uid=10047(com.wahoofitness.bolt) ANTDiscoveryMan expire 12 lines
+10-02 15:42:57.163  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 37 lines
+10-02 15:42:57.187  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 22 lines
+10-02 15:42:57.290  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 4 lines
+10-02 15:42:57.461  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:42:57.463  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 4 lines
+10-02 15:42:57.463  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 4 lines
+10-02 15:42:58.102  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:42:58.103  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 4 lines
+10-02 15:42:58.105  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 14 lines
+10-02 15:42:58.110  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 1 line
+10-02 15:42:58.276  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 4 lines
+10-02 15:42:58.315  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 7 lines
+10-02 15:42:58.327  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 16 lines
+10-02 15:42:58.646  1363  1433 I chatty  : uid=10047(com.wahoofitness.bolt) ANTDiscoveryMan expire 6 lines
+10-02 15:42:58.869  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:42:58.870  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 4 lines
+10-02 15:42:58.871  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 2 lines
+10-02 15:42:58.970  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 28 lines
+10-02 15:42:59.010  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 13 lines
+10-02 15:42:59.193  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 13 lines
+10-02 15:42:59.277  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 4 lines
+10-02 15:42:59.484  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:42:59.484  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 4 lines
+10-02 15:42:59.485  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 4 lines
+10-02 15:42:59.760  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 13 lines
+10-02 15:42:59.761  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 4 lines
+10-02 15:42:59.827  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 9 lines
+10-02 15:43:00.042  1363  1433 I chatty  : uid=10047(com.wahoofitness.bolt) ANTDiscoveryMan expire 7 lines
+10-02 15:43:00.099  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:43:00.100  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 4 lines
+10-02 15:43:00.177  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 6 lines
+10-02 15:43:00.206  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 54 lines
+10-02 15:43:00.406  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 11 lines
+10-02 15:43:00.530  1363  1556 I chatty  : uid=10047(com.wahoofitness.bolt) BTLEGattSM-TICK expire 6 lines
+10-02 15:43:00.633  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:43:00.635  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 4 lines
+10-02 15:43:00.636  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 2 lines
+10-02 15:43:00.739  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 6 lines
+10-02 15:43:00.970  1363  1552 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:PM:8805 expire 6 lines
+10-02 15:43:01.043  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 22 lines
+10-02 15:43:01.055  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 13 lines
+10-02 15:43:01.229  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 18 lines
+10-02 15:43:01.230  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 4 lines
+10-02 15:43:01.231  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 11 lines
+10-02 15:43:01.233  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 15 lines
+10-02 15:43:01.276  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 27 lines
+10-02 15:43:02.543  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 4 lines
+10-02 15:43:02.779  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 13 lines
+10-02 15:43:02.971  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 48 lines
+10-02 15:43:03.103  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:43:03.103  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 4 lines
+10-02 15:43:05.664  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 4 lines
+10-02 15:43:05.722  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:43:05.724  1363  1413 I chatty  : uid=10047(com.wahoofitness.bolt) BTLECmdQueue expire 8 lines
+10-02 15:43:06.099  1363  1363 I chatty  : uid=10047(com.wahoofitness.bolt) expire 38 lines
+10-02 15:43:06.125  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp expire 10 lines
+10-02 15:43:06.366  1363  1566 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicBluetoo expire 1 line
+10-02 15:43:06.369  1363  1469 I chatty  : uid=10047(com.wahoofitness.bolt) BANordicHciAdap expire 2 lines
+10-02 15:43:06.585  1363  1552 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:PM:8805 expire 11 lines
+10-02 15:43:06.649  1363  1548 I chatty  : uid=10047(com.wahoofitness.bolt) ANT:HRM:38333 expire 6 lines
+10-02 15:43:06.665  1363  1363 I BSensorCharacteristic: [2] << StdSensor onSensorConnectionStateChanged 13
+10-02 15:43:06.665  1363  1363 I BSensorCharacteristic: [2] sendNotif_Sensor StdSensor [13 CpSet [ANTConnectionParams [PM:8805:5]]] onSensorConnectionStateChanged
+10-02 15:43:06.670  1363  1363 V CmdQueue-BTLECmdQueue: [2] add BxCA-SEN-170 1
+10-02 15:43:06.677  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:06.686  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-SEN-170 [03 22 00 02 0D +43]
+10-02 15:43:06.686  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:06.686  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-SEN-170 1
+10-02 15:43:06.687  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:06.696  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:06.697  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 11ms
+10-02 15:43:06.697  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-SEN-170 12ms
+10-02 15:43:06.776  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:06.808  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:06.824  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE=0.0 REVS=0.0]
+10-02 15:43:06.826  1363  1552 V notifyCrankRevsData: [174] com.wahoofitness.connector.conn.characteristics.crux.e$d@b80c713
+10-02 15:43:06.826  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE_BIKE=0.0 CRANK_REVS=0.0]
+10-02 15:43:06.827  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [TORQUE_BIKE 0.0]
+10-02 15:43:06.831  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER 0.0]
+10-02 15:43:06.831  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK deltaMs = 238 deltaValue = 0.0]
+10-02 15:43:06.831  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE 0.0]
+10-02 15:43:06.832  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK_BIKE deltaMs = 238 deltaValue = 0.0]
+10-02 15:43:06.833  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.0 CALORIES=0.0]
+10-02 15:43:06.833  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_PWR=0.0 CALORIES_PWR=0.0]
+10-02 15:43:06.873  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:06.925  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:06.965  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185786 $GPGGA,144312.00,4338.7447,N,07227.8483,W,1,12,0.8,292.5,M,-32.7,M,,*58
+10-02 15:43:06.969  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185786 $GNGLL,4338.7447,N,07227.8483,W,144312.00,A,A*6F
+10-02 15:43:06.970  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185786 $GNGSA,A,3,02,05,06,13,15,18,20,29,,,,,1.4,0.8,1.1,1*3B
+10-02 15:43:06.990  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185786 $GNGSA,A,3,66,67,68,81,,,,,,,,,1.4,0.8,1.1,2*39
+10-02 15:43:06.990  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185786 $GPGSV,4,1,13,02,48,111,32,05,78,316,33,06,06,113,16,07,09,055,26,0*6C
+10-02 15:43:06.990  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185786 $GPGSV,4,2,13,11,38,104,,13,45,157,30,15,29,195,32,18,12,298,26,0*62
+10-02 15:43:06.996  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:06.998  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 08 00]
+10-02 15:43:06.998  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:06.999  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:07.000  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:07.007  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:07.007  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 7ms
+10-02 15:43:07.008  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 11ms
+10-02 15:43:07.014  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GPGSV,4,3,13,20,57,055,38,25,03,238,27,26,02,321,,29,56,282,43,0*62
+10-02 15:43:07.015  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GPGSV,4,4,13,30,10,087,25,,,,,,,,,,,,,0*5D
+10-02 15:43:07.016  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GLGSV,2,1,08,66,27,036,25,67,83,024,33,68,40,218,31,74,01,329,,0*70
+10-02 15:43:07.043  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GLGSV,2,2,08,75,02,017,,81,28,137,26,82,79,109,28,83,46,327,23,0*7D
+10-02 15:43:07.044  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GNRMC,144312.00,A,4338.7447,N,07227.8483,W,4.0,10.8,021021,,,A,V*1F
+10-02 15:43:07.044  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GNVTG,10.8,T,,M,4.0,N,7.4,K,A*2D
+10-02 15:43:07.044  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GNZDA,144312.00,02,10,2021,,*7B
+10-02 15:43:07.060  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSEPU,13.4,8.4,6.1,5.8,10.4,2.61,1.61,9.1,0.83,1.37,2.06*75
+10-02 15:43:07.062  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSVLF,7.40,7.40,10.8,1.40,7.27,0.60*57
+10-02 15:43:07.067  1363  1363 V GPSDevice: [2] onLocationChanged 1098219520 loc=43.645745,-72.464138 alt=287.74 horAcc=8.40 bearing=10.80 gpsSpeed=2.06 sats=12
+10-02 15:43:07.067  1363  1363 V GPSDevice: [2] getBestSpeed horAcc > 4m, reset MAs and use gps speed
+10-02 15:43:07.067  1363  1363 V GPSDevice: [2] notifyGpsData GpsData [ loc=43.645745,-72.464138 alt=287.74 moving=true spd=2.06 spdIsGps=true horAcc=8.40 dist=12.09 head=10.80 sats=12]
+10-02 15:43:07.070  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.071  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE=0.0 REVS=0.0]
+10-02 15:43:07.072  1363  1552 V notifyCrankRevsData: [174] com.wahoofitness.connector.conn.characteristics.crux.e$d@e2ebd50
+10-02 15:43:07.072  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE_BIKE=0.0 CRANK_REVS=0.0]
+10-02 15:43:07.073  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [TORQUE_BIKE 0.0]
+10-02 15:43:07.073  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK deltaMs = 248 deltaValue = 0.0]
+10-02 15:43:07.073  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK_BIKE deltaMs = 248 deltaValue = 0.0]
+10-02 15:43:07.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.0 CALORIES=0.0]
+10-02 15:43:07.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_PWR=0.0 CALORIES_PWR=0.0]
+10-02 15:43:07.082  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,1,01,02,0,571409.348490699,26,31.7,21995535.174,204.200,0.2,12,629482.621,0.00519,1,48,111,9,4,1,1,01073,N,F,1
+10-02 15:43:07.083  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,2,01,05,0,571409.354673479,16,33.0,20141984.528,-140.882,0.1,09,-333260.710,0.00325,1,78,316,9,4,1,1,00740,P,F
+10-02 15:43:07.101  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.103  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,3,01,06,0,571409.338151664,143,15.2,25095099.958,473.747,1.1,01,1786140.344,0.02792,2,06,113,9,4,2,1,02489,N,F
+10-02 15:43:07.121  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,4,01,07,0,571409.338083880,36,25.2,25115421.078,-224.618,0.3,01,-412302.298,0.00714,2,09,055,9,4,1,0,01180,P,F
+10-02 15:43:07.123  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,5,01,11,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,38,104,,,,,,,,1,0*6A
+10-02 15:43:07.136  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.138  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,6,01,13,0,571409.350140044,50,29.4,21501074.129,-636.156,0.2,01,-2075527.568,0.00974,2,45,157,9,4,2,1,03343,P,
+10-02 15:43:07.139  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [91bpm]
+10-02 15:43:07.140  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.5333333015441895 HEART_BEATS=0.7487750053405762]
+10-02 15:43:07.143  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.06255175918340683 CALORIES=0.030275583267211914]
+10-02 15:43:07.144  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.06255175918340683 CALORIES_HR=0.030275583267211914]
+10-02 15:43:07.144  1363  1363 V BAAmbientLightManager: [2] << SensorEventListener onSensorChanged 425000
+10-02 15:43:07.159  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,7,01,15,0,571409.346020018,56,31.7,22736226.676,-826.068,0.2,01,-2697879.298,0.01104,2,29,195,9,4,2,1,04341,P,
+10-02 15:43:07.161  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,8,01,18,0,571409.340532746,30,25.9,24381269.385,-734.718,0.3,01,-2032791.536,0.00584,1,12,298,9,4,2,1,03860,P,
+10-02 15:43:07.177  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,9,01,20,0,571409.352641682,16,38.0,20751101.744,175.113,0.1,1A,519161.591,0.00325,1,57,055,9,4,1,1,00920,N,F,1
+10-02 15:43:07.199  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.202  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,10,01,25,0,571409.336718035,80,26.8,25524891.135,438.485,0.3,01,1521197.160,0.01558,2,03,238,9,4,2,1,02304,N,F
+10-02 15:43:07.205  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,11,01,26,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,321,,,,,,,,1,0*57
+10-02 15:43:07.222  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,12,01,29,0,571409.351462047,76,42.3,21104747.542,-245.077,0.1,12,-968874.470,0.01494,2,56,282,9,4,1,1,01287,P,
+10-02 15:43:07.225  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,13,01,30,0,571409.338732009,163,24.0,24921116.941,-477.128,0.4,01,-1214810.157,0.03182,2,10,087,9,4,1,0,02507,
+10-02 15:43:07.233  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.238  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,14,02,66,0,63791.349214033,13,24.4,21778677.641,564.441,0.3,09,1935640.584,0.00260,1,27,036,9,4,1,1,03011,N,F,
+10-02 15:43:07.243  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,15,02,67,0,63791.357800968,70,32.3,19204379.221,-25.852,0.2,01,3000.374,0.01364,2,83,024,9,4,1,1,00138,P,F,1,5
+10-02 15:43:07.267  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,16,02,68,0,63791.352142425,63,30.7,20900767.907,-708.362,0.2,01,-2101058.881,0.01234,2,40,218,9,4,1,1,03793,P,
+10-02 15:43:07.316  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,17,02,74,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,01,329,,,,,,,,1,0*5E
+10-02 15:43:07.317  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,18,02,75,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,017,,,,,,,,1,0*5D
+10-02 15:43:07.317  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,19,02,81,0,63791.349462898,63,25.3,21704069.713,550.799,0.3,09,1837779.704,0.01234,2,28,137,9,4,1,1,02947,N,F,
+10-02 15:43:07.317  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,20,02,82,0,63791.357778044,36,27.1,19211251.680,-29.066,0.3,01,-27774.173,0.00714,2,79,109,9,4,1,1,00155,P,F,1
+10-02 15:43:07.319  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $PSGME,21,21,02,83,0,0.000000000,,22.4,0.000,-669.872,0.4,09,73459.555,0.00000,0,46,327,9,1,2,0,03583,P,F,1,3*65
+10-02 15:43:07.331  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.332  1363  1552 E crux_coded_time_accumulator.c/crux_coded_time_accumulator_add_avg_time_ticks: add huge delta_system_time_ms 747590 512251 235339
+10-02 15:43:07.332  1363  1552 E crux_decode_processor_pwr_only.c/pwr_only_check_time: delta system time is too big
+10-02 15:43:07.362  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.385  1363  1363 V StdLocationProcessorGps: [2] checkNewData fixDeltaMs -1632087567547
+10-02 15:43:07.392  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.410  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.470  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:07.471  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 08 00]
+10-02 15:43:07.471  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:07.472  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:07.472  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:07.478  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:07.479  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 8ms
+10-02 15:43:07.479  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 7ms
+10-02 15:43:07.558  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.573  1363  1476 V BANordicAntChannelManagerDevice-ANT:HRM:38333 1: [150] onAntChannelEvent RX_FAIL
+10-02 15:43:07.574  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_LEFT 91.0]
+10-02 15:43:07.576  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_RIGHT 0.0]
+10-02 15:43:07.578  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_LEFT 24.0]
+10-02 15:43:07.580  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_RIGHT 0.0]
+10-02 15:43:07.623  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.752  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 3 lines
+10-02 15:43:07.785  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.819  1363  1476 V BANordicAntChannelManagerDevice-ANT:PM:8805 2: [150] onAntChannelEvent RX_FAIL
+10-02 15:43:07.827  1363  1363 V BaromHelper: [2] notifyPressureData PressureCapabilityData [pressureNpM2=98513 stdElevM=240 calibElevM=291.64644704581934]
+10-02 15:43:07.848  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.883  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 1 line
+10-02 15:43:07.907  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:07.968  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GPGGA,144313.00,4338.7465,N,07227.8481,W,1,12,0.8,292.7,M,-32.7,M,,*59
+10-02 15:43:07.971  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GNGLL,4338.7465,N,07227.8481,W,144313.00,A,A*6C
+10-02 15:43:07.974  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:07.974  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GNGSA,A,3,02,05,06,13,15,18,20,29,,,,,1.4,0.8,1.1,1*3B
+10-02 15:43:07.975  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 08 00]
+10-02 15:43:07.975  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:07.975  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:07.976  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:07.983  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:07.983  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 7ms
+10-02 15:43:07.984  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 10ms
+10-02 15:43:07.993  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GNGSA,A,3,66,68,81,82,,,,,,,,,1.4,0.8,1.1,2*32
+10-02 15:43:07.993  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GPGSV,4,1,13,02,48,111,30,05,78,316,33,06,06,113,15,07,09,055,23,0*68
+10-02 15:43:07.995  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185787 $GPGSV,4,2,13,11,38,104,,13,45,157,28,15,29,195,32,18,12,298,28,0*65
+10-02 15:43:08.014  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GPGSV,4,3,13,20,57,055,34,25,03,238,25,26,02,321,,29,56,281,42,0*6E
+10-02 15:43:08.016  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GPGSV,4,4,13,30,10,087,25,,,,,,,,,,,,,0*5D
+10-02 15:43:08.018  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GLGSV,2,1,08,66,27,036,27,67,83,024,28,68,40,218,30,74,01,329,,0*79
+10-02 15:43:08.041  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GLGSV,2,2,08,75,02,017,,81,28,137,25,82,79,109,25,83,46,327,24,0*74
+10-02 15:43:08.043  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GNRMC,144313.00,A,4338.7465,N,07227.8481,W,5.4,7.7,021021,,,A,V*20
+10-02 15:43:08.043  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GNVTG,7.7,T,,M,5.4,N,9.9,K,A*12
+10-02 15:43:08.044  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GNZDA,144313.00,02,10,2021,,*7A
+10-02 15:43:08.046  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSEPU,13.3,8.6,6.2,6.0,10.1,2.54,1.62,7.0,0.85,1.38,1.96*74
+10-02 15:43:08.070  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE=1.4143646955490112 REVS=0.7064751982688904]
+10-02 15:43:08.071  1363  1552 V notifyCrankRevsData: [174] com.wahoofitness.connector.conn.characteristics.crux.e$d@7799b03
+10-02 15:43:08.071  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSVLF,10.03,9.93,7.7,1.33,9.83,1.50*59
+10-02 15:43:08.071  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE_BIKE=1.4143646955490112 CRANK_REVS=0.7064751982688904]
+10-02 15:43:08.072  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [TORQUE_BIKE 48.125]
+10-02 15:43:08.073  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER 143.48435974121094]
+10-02 15:43:08.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK deltaMs = 999 deltaValue = 213.6227569580078]
+10-02 15:43:08.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE 143.48435974121094]
+10-02 15:43:08.075  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK_BIKE deltaMs = 999 deltaValue = 213.6227569580078]
+10-02 15:43:08.077  1363  1363 V GPSDevice: [2] onLocationChanged 1098220520 loc=43.645775,-72.464135 alt=287.94 horAcc=8.60 bearing=7.70 gpsSpeed=2.76 sats=12
+10-02 15:43:08.077  1363  1363 V GPSDevice: [2] getBestSpeed horAcc > 4m, reset MAs and use gps speed
+10-02 15:43:08.078  1363  1363 V GPSDevice: [2] notifyGpsData GpsData [ loc=43.645775,-72.464135 alt=287.94 moving=true spd=2.76 spdIsGps=true horAcc=8.60 dist=15.43 head=7.70 sats=12]
+10-02 15:43:08.078  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.42767319083213806 CALORIES=0.21362276375293732]
+10-02 15:43:08.078  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_PWR=0.42767319083213806 CALORIES_PWR=0.21362276375293732]
+10-02 15:43:08.081  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,1,01,02,0,571410.348490000,40,29.9,21995864.879,205.202,0.2,09,630554.603,0.00779,2,48,111,9,4,2,1,01078,N,F,1
+10-02 15:43:08.089  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,2,01,05,0,571410.354673950,13,32.5,20141963.284,-140.191,0.1,01,-333996.699,0.00260,1,78,316,9,4,2,1,00736,P,F
+10-02 15:43:08.110  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.111  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,3,01,06,0,571410.338150091,136,14.2,25095691.568,473.689,1.0,09,1788628.423,0.02662,2,06,113,9,4,0,1,02489,N,F
+10-02 15:43:08.113  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,4,01,07,0,571410.338084633,33,22.4,25115315.261,-222.349,0.5,01,-413487.364,0.00649,2,09,055,9,4,1,0,01168,P,F
+10-02 15:43:08.118  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,5,01,11,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,38,104,,,,,,,,1,0*6A
+10-02 15:43:08.127  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [95bpm]
+10-02 15:43:08.127  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.5833333730697632 HEART_BEATS=1.5380749702453613]
+10-02 15:43:08.129  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.06789592653512955 CALORIES=0.06437592953443527]
+10-02 15:43:08.131  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.06789592653512955 CALORIES_HR=0.06437592953443527]
+10-02 15:43:08.136  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,6,01,13,0,571410.350142164,50,27.6,21500558.343,-637.043,0.3,01,-2078872.975,0.00974,2,45,157,9,4,2,1,03347,P,
+10-02 15:43:08.143  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,7,01,15,0,571410.346022783,50,31.0,22735517.732,-825.550,0.2,01,-2702219.400,0.00974,2,29,195,9,4,2,1,04338,P,
+10-02 15:43:08.144  1363  1363 V BAAmbientLightManager: [2] << SensorEventListener onSensorChanged 381000
+10-02 15:43:08.165  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,8,01,18,0,571410.340535192,36,27.8,24380656.222,-736.146,0.2,01,-2036655.888,0.00714,2,12,298,9,4,2,1,03868,P,
+10-02 15:43:08.175  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.186  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,9,01,20,0,571410.352641084,30,33.8,20751401.047,175.458,0.1,1A,520081.310,0.00584,1,57,055,9,4,1,1,00922,N,F,1
+10-02 15:43:08.207  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,10,01,25,0,571410.336716592,56,24.1,25525443.639,438.762,0.5,01,1523506.683,0.01104,2,03,238,9,4,2,1,02305,N,F
+10-02 15:43:08.209  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,11,01,26,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,321,,,,,,,,1,0*57
+10-02 15:43:08.231  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,12,01,29,0,571410.351462864,76,41.4,21104622.633,-243.625,0.1,12,-970163.085,0.01494,2,56,281,9,4,1,1,01280,P,
+10-02 15:43:08.232  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,13,01,30,0,571410.338733626,136,24.9,24920751.952,-480.330,0.3,01,-1217317.949,0.02662,2,10,087,9,4,1,0,02524,
+10-02 15:43:08.246  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,14,02,66,0,63792.349212146,20,26.3,21779363.406,566.370,0.3,01,1938665.490,0.00390,1,27,036,9,4,1,1,03022,N,F,
+10-02 15:43:08.267  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,15,02,67,0,63792.357801045,80,27.5,19204476.109,-28.045,0.2,01,2850.807,0.01558,2,83,024,9,4,1,1,00150,P,F,1,5
+10-02 15:43:08.270  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.274  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,16,02,68,0,63792.352144790,56,29.8,20900178.842,-708.757,0.2,01,-2104847.189,0.01104,2,40,218,9,4,1,1,03795,P,
+10-02 15:43:08.309  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.324  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE=1.6025038957595825 REVS=0.3798167109489441]
+10-02 15:43:08.327  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,17,02,74,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,01,329,,,,,,,,1,0*5E
+10-02 15:43:08.327  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,18,02,75,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,017,,,,,,,,1,0*5D
+10-02 15:43:08.327  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,19,02,81,0,63792.349461029,103,24.9,21704749.937,552.202,0.3,01,1840706.802,0.02013,2,28,137,9,4,1,1,02954,N,F
+10-02 15:43:08.327  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,20,02,82,0,63792.357778136,36,25.0,19211344.042,-26.707,0.3,09,-27923.636,0.00714,2,79,109,9,4,2,1,00142,P,F,1
+10-02 15:43:08.331  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $PSGME,21,21,02,83,0,0.000000000,,23.6,0.000,-669.590,0.4,01,69878.413,0.00000,0,46,327,9,1,2,0,03581,P,F,1,3*6A
+10-02 15:43:08.333  1363  1552 V notifyCrankRevsData: [174] com.wahoofitness.connector.conn.characteristics.crux.e$d@2c04962
+10-02 15:43:08.333  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE_BIKE=1.6025038957595825 CRANK_REVS=0.3798167109489441]
+10-02 15:43:08.334  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [TORQUE_BIKE 40.75]
+10-02 15:43:08.334  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK deltaMs = 253 deltaValue = 106.00420379638672]
+10-02 15:43:08.334  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK_BIKE deltaMs = 253 deltaValue = 106.00420379638672]
+10-02 15:43:08.335  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.4103047847747803 CALORIES=0.10600420087575912]
+10-02 15:43:08.337  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_PWR=0.4103047847747803 CALORIES_PWR=0.10600420087575912]
+10-02 15:43:08.370  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.385  1363  1363 V StdLocationProcessorGps: [2] checkNewData fixDeltaMs -1632087567558
+10-02 15:43:08.387  1363  1363 I BAncsManager: [2] onPoll companion is neither bonded nor an iPhone
+10-02 15:43:08.387  1363  1363 I BStartReminderManager: [2] [2] onPoll power tripped PWR143
+10-02 15:43:08.387  1363  1363 I BStartReminderManager: [2] [2] notifyStartReminder PWR143
+10-02 15:43:08.387  1363  1363 I BNotifManager: [2] [2] notifyStartReminder PWR143
+10-02 15:43:08.444  1363  1363 I BNotifManager: [2] [2] update adding BNotif_StartReminder at index 0
+10-02 15:43:08.445  1363  1363 D BLedManager: [2] [2] sendLedCmd sending TOP BLedCmd [2 T0#22AAFF00 T1#0 T2#22AAFF00 T3#0 T4#22AAFF00 T5#0 T6#22AAFF00 S#250 T0#0 T1#22AAFF00 T2#0 T3#22AAFF00 T4#0 T5#22AAFF00 T6#0 S#250 T0#0 T1#0 T2#0 T3#0 T4#0 S#1 REPEAT]
+10-02 15:43:08.447  1363  1363 D BLedManager: [2] [2] sendLedCmd sending LEFT BLedCmd [1 L0#0 L1#0 L2#0 L3#0 L4#0 L5#0 L6#0]
+10-02 15:43:08.448  1363  1363 I BNotifManager: [2] [2] update new buzzer BNotif_StartReminder
+10-02 15:43:08.448  1363  1363 V BBuzzerManager: [2] sendPattern B#1479 S#50 B#0 S#5 B#1567 S#50 B#0 S#5 B#1244 S#50 B#0 S#5 B#1318 S#100 B#0
+10-02 15:43:08.450  1363  1363 I BNotifManager: [2] [2] update new dlg BNotif_StartReminder
+10-02 15:43:08.473  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.482  1363  1363 V BHomeActivity: [2] << BNotifManager onDlgNotifChanged
+10-02 15:43:08.483  1363  1363 V BAHomeNotifHelper: [2] show heightPx=173
+10-02 15:43:08.484  1363  1363 V BNotifFragment: [2] setContentView [notif-changed] set view
+10-02 15:43:08.485  1363  1363 I BFooterView: [2] setFooterInfo FooterActions [left=NOTIF_NO, center=START, right=NONE]
+10-02 15:43:08.498  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.563  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 2 lines
+10-02 15:43:08.575  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.576  1363  1363 V Handler-BTLEGattSM-poll-LogCount: [2] increment current=700 max=700 total=700
+10-02 15:43:08.643  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:08.649  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 09 00]
+10-02 15:43:08.651  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:08.652  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [96bpm]
+10-02 15:43:08.652  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.600000023841858 HEART_BEATS=0.8181166648864746]
+10-02 15:43:08.652  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.06967732310295105 CALORIES=0.035356324166059494]
+10-02 15:43:08.653  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.06967732310295105 CALORIES_HR=0.035356324166059494]
+10-02 15:43:08.653  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:08.654  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:08.662  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 10ms
+10-02 15:43:08.662  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:08.666  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 20ms
+10-02 15:43:08.826  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.828  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_LEFT 90.0]
+10-02 15:43:08.829  1363  1363 V Handler-CharacteristicHelper-LogCount: [2] increment current=4700 max=4700 total=4700
+10-02 15:43:08.830  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_RIGHT 0.0]
+10-02 15:43:08.830  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_LEFT 23.5]
+10-02 15:43:08.830  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_RIGHT 0.0]
+10-02 15:43:08.858  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.890  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 1 line
+10-02 15:43:08.924  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:08.970  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GPGGA,144314.00,4338.7484,N,07227.8477,W,1,12,0.8,293.1,M,-32.7,M,,*5F
+10-02 15:43:08.973  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GNGLL,4338.7484,N,07227.8477,W,144314.00,A,A*6D
+10-02 15:43:08.974  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GNGSA,A,3,02,05,06,13,15,18,20,29,,,,,1.4,0.8,1.1,1*3B
+10-02 15:43:08.995  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GNGSA,A,3,66,67,68,81,,,,,,,,,1.4,0.8,1.1,2*39
+10-02 15:43:08.998  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GPGSV,4,1,13,02,47,111,31,05,78,316,32,06,06,113,16,07,09,055,23,0*64
+10-02 15:43:09.001  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185788 $GPGSV,4,2,13,11,38,104,,13,45,157,28,15,29,195,31,18,12,298,28,0*66
+10-02 15:43:09.016  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GPGSV,4,3,13,20,57,055,40,25,03,238,26,26,02,321,,29,56,281,39,0*62
+10-02 15:43:09.019  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.020  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GPGSV,4,4,13,30,10,087,26,,,,,,,,,,,,,0*5E
+10-02 15:43:09.021  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GLGSV,2,1,08,66,27,036,27,67,83,024,34,68,40,218,30,74,01,329,,0*74
+10-02 15:43:09.040  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GLGSV,2,2,08,75,02,017,,81,28,137,24,82,79,109,22,83,46,327,27,0*71
+10-02 15:43:09.041  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GNRMC,144314.00,A,4338.7484,N,07227.8477,W,6.4,9.6,021021,,,A,V*2D
+10-02 15:43:09.045  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GNVTG,9.6,T,,M,6.4,N,11.8,K,A*26
+10-02 15:43:09.046  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GNZDA,144314.00,02,10,2021,,*7D
+10-02 15:43:09.050  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.069  1363  1476 V BANordicAntChannelManagerDevice-ANT:HRM:38333 1: [150] onAntChannelEvent RX_FAIL
+10-02 15:43:09.071  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE=1.7414965629577637 REVS=1.2497198581695557]
+10-02 15:43:09.071  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSEPU,16.3,11.0,8.0,7.5,12.0,2.68,1.64,6.7,0.91,1.36,2.12*4F
+10-02 15:43:09.071  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSVLF,12.00,11.83,9.6,1.97,11.67,2.07*53
+10-02 15:43:09.072  1363  1552 V notifyCrankRevsData: [174] com.wahoofitness.connector.conn.characteristics.crux.e$d@418d6e3
+10-02 15:43:09.072  1363  1363 V GPSDevice: [2] onLocationChanged 1098221520 loc=43.645807,-72.464128 alt=288.34 horAcc=11.00 bearing=9.60 gpsSpeed=3.29 sats=12
+10-02 15:43:09.072  1363  1363 V GPSDevice: [2] getBestSpeed horAcc > 4m, reset MAs and use gps speed
+10-02 15:43:09.073  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE_BIKE=1.7414965629577637 CRANK_REVS=1.2497198581695557]
+10-02 15:43:09.073  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [TORQUE_BIKE 20.4375]
+10-02 15:43:09.073  1363  1363 V GPSDevice: [2] notifyGpsData GpsData [ loc=43.645807,-72.464128 alt=288.34 moving=true spd=3.29 spdIsGps=true horAcc=11.00 dist=18.99 head=9.60 sats=12]
+10-02 15:43:09.073  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER 308.95196533203125]
+10-02 15:43:09.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK deltaMs = 748 deltaValue = 237.09165954589844]
+10-02 15:43:09.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE 308.95196533203125]
+10-02 15:43:09.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK_BIKE deltaMs = 748 deltaValue = 237.09165954589844]
+10-02 15:43:09.074  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.22363010048866272 CALORIES=0.23709166049957275]
+10-02 15:43:09.075  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_PWR=0.22363010048866272 CALORIES_PWR=0.23709166049957275]
+10-02 15:43:09.080  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,1,01,02,0,571411.348489302,53,30.2,21996193.875,204.292,0.2,01,631631.001,0.01039,2,47,111,9,4,2,1,01073,N,F,1
+10-02 15:43:09.082  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,2,01,05,0,571411.354674391,40,31.9,20141950.978,-140.283,0.2,01,-334732.750,0.00779,2,78,316,9,4,2,1,00737,P,F
+10-02 15:43:09.102  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,3,01,06,0,571411.338148504,140,16.0,25096287.014,474.277,0.8,01,1791120.335,0.02727,2,06,113,9,4,2,1,02492,N,F
+10-02 15:43:09.115  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.123  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,4,01,07,0,571411.338085383,33,22.9,25115210.422,-226.023,0.5,01,-414669.571,0.00649,2,09,055,9,4,1,0,01187,P,F
+10-02 15:43:09.123  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,5,01,11,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,38,104,,,,,,,,1,0*6A
+10-02 15:43:09.140  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,6,01,13,0,571411.350144259,76,27.2,21500050.161,-637.412,0.3,01,-2082222.674,0.01494,2,45,157,9,4,2,1,03349,P,
+10-02 15:43:09.143  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,7,01,15,0,571411.346025532,53,30.3,22734813.686,-824.951,0.2,01,-2706556.239,0.01039,2,29,195,9,4,2,1,04335,P,
+10-02 15:43:09.144  1363  1363 V BAAmbientLightManager: [2] << SensorEventListener onSensorChanged 365000
+10-02 15:43:09.162  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,8,01,18,0,571411.340537637,43,27.6,24380043.050,-736.123,0.2,01,-2040524.056,0.00844,2,12,298,9,4,2,1,03868,P,
+10-02 15:43:09.185  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,9,01,20,0,571411.352640509,20,39.4,20751693.231,175.251,0.1,01,521001.089,0.00390,1,57,055,9,4,1,1,00920,N,F,1
+10-02 15:43:09.202  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,10,01,25,0,571411.336715114,66,25.2,25526006.625,440.594,0.3,01,1525817.068,0.01299,2,03,238,9,4,2,1,02315,N,F
+10-02 15:43:09.206  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,11,01,26,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,321,,,,,,,,1,0*57
+10-02 15:43:09.213  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.223  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,12,01,29,0,571411.351463689,66,38.5,21104495.245,-245.630,0.1,1A,-971450.771,0.01299,2,56,281,9,4,1,1,01290,P,
+10-02 15:43:09.225  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,13,01,30,0,571411.338735232,126,25.9,24920390.488,-478.764,0.3,01,-1219834.719,0.02468,2,10,087,9,4,1,0,02515,
+10-02 15:43:09.240  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,14,02,66,0,63793.349210226,50,26.5,21780058.678,569.308,0.3,09,1941684.251,0.00974,2,27,036,9,4,1,1,03037,N,F,
+10-02 15:43:09.246  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.260  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.263  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,15,02,67,0,63793.357801121,93,33.5,19204573.308,-27.593,0.1,01,2704.125,0.01818,2,83,024,9,4,1,1,00147,P,F,1,5
+10-02 15:43:09.272  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,16,02,68,0,63793.352147153,50,29.8,20899590.174,-706.429,0.2,01,-2108627.147,0.00974,2,40,218,9,4,1,1,03782,P,
+10-02 15:43:09.277  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,17,02,74,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,01,329,,,,,,,,1,0*5E
+10-02 15:43:09.277  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,18,02,75,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,017,,,,,,,,1,0*5D
+10-02 15:43:09.312  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,19,02,81,0,63793.349459156,146,23.9,21705431.511,544.826,0.5,09,1843640.579,0.02857,2,28,137,9,4,1,1,02915,N,F
+10-02 15:43:09.312  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,20,02,82,0,63793.357778196,66,21.6,19211446.085,-24.983,0.6,09,-28072.632,0.01299,2,79,109,9,4,1,1,00133,P,F,1
+10-02 15:43:09.315  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $PSGME,21,21,02,83,0,0.000000000,,26.2,0.000,-670.042,0.3,09,66295.452,0.00000,0,46,327,9,1,1,0,03584,P,F,1,3*63
+10-02 15:43:09.333  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:09.333  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 09 00]
+10-02 15:43:09.333  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:09.334  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:09.334  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:09.340  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:09.341  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 8ms
+10-02 15:43:09.342  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 7ms
+10-02 15:43:09.385  1363  1363 V StdLocationProcessorGps: [2] checkNewData fixDeltaMs -1632087567552
+10-02 15:43:09.408  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.573  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 3 lines
+10-02 15:43:09.606  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.607  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [99bpm]
+10-02 15:43:09.608  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.6666666269302368 HEART_BEATS=1.5778000354766846]
+10-02 15:43:09.612  1363  1363 V Handler-CharacteristicHelper-LogCount: [2] increment current=3200 max=3200 total=3200
+10-02 15:43:09.613  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.07680287212133408 CALORIES=0.07074993848800659]
+10-02 15:43:09.614  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.07680287212133408 CALORIES_HR=0.07074993848800659]
+10-02 15:43:09.638  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.769  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 2 lines
+10-02 15:43:09.801  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.826  1363  1363 V BaromHelper: [2] notifyPressureData PressureCapabilityData [pressureNpM2=98509 stdElevM=241 calibElevM=291.9063271649887]
+10-02 15:43:09.845  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:09.914  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:09.916  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 09 00]
+10-02 15:43:09.917  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:09.917  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:09.918  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:09.926  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:09.926  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 9ms
+10-02 15:43:09.927  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 11ms
+10-02 15:43:09.949  1363  1363 V BSystemManager: [2] checkUpdateAutoShutdown button
+10-02 15:43:09.950  1363  1363 V BSystemManager: [2] checkUpdateAutoShutdown 900 seconds remaining
+10-02 15:43:09.952  1363  1363 V BBacklightManager: [2] onButtonEvent 0 0
+10-02 15:43:09.953  1363  1363 V BHomeActivity: [2] onButtonPress center_button isLongPress=false
+10-02 15:43:09.971  1363  1363 I BNotifManager: [2] [2] update removing BNotif_StartReminder
+10-02 15:43:09.971  1363  1363 D BLedManager: [2] [2] sendLedCmd sending ALL BLedCmd [0 L0#0 L1#0 L2#0 L3#0 L4#0 L5#0 L6#0 T0#0 T1#0 T2#0 T3#0 T4#0]
+10-02 15:43:09.974  1363  1363 I BNotifManager: [2] [2] update new buzzer null
+10-02 15:43:09.974  1363  1363 I BBuzzerManager: [2] sendStopBuzzer
+10-02 15:43:09.974  1363  1363 V BBuzzerManager: [2] sendPattern B#0
+10-02 15:43:09.975  1363  1363 I BNotifManager: [2] [2] update new dlg null
+10-02 15:43:09.976  1363  1363 I StdSessionManager: [2] [2] startWorkout
+10-02 15:43:09.976  1363  1363 V TimeInstant: [2] lockTimeMs lock=true
+10-02 15:43:09.993  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.025  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.058  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.068  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_LEFT 44.0]
+10-02 15:43:10.070  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_RIGHT 0.0]
+10-02 15:43:10.070  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_LEFT 11.0]
+10-02 15:43:10.070  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_RIGHT 0.0]
+10-02 15:43:10.095  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [100bpm]
+10-02 15:43:10.095  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.6833332777023315 HEART_BEATS=0.8173999786376953]
+10-02 15:43:10.095  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.07858426868915558 CALORIES=0.0379144623875618]
+10-02 15:43:10.096  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.07858426868915558 CALORIES_HR=0.0379144623875618]
+10-02 15:43:10.103  1363  1363 I StdPeriodDao: [2] createWorkout CloudId [900352 PRODUCTION] StdPeriodDao WO [id=0 ELEMNT BOLT 981E:29 summaryClId=0 partDbId=0 userClID=0 1633185789000]
+10-02 15:43:10.103  1363  1363 V WORKOUT:29:-1:-1: [2] setUserCloudId 900352
+10-02 15:43:10.123  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.147  1363  1363 I StdFitBuilder: [2] [2] open /sdcard/exports/2021-10-02-144309-ELEMNT BOLT 981E-29-0.fit
+10-02 15:43:10.151  1363  1363 I StdFitBuilder: [2] [2] startWorkout 1633185789000
+10-02 15:43:10.152  1363  1363 D StdFitBuilder: [2] [2] addEvent 1633185789000 START
+10-02 15:43:10.159  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.j4@81b870e
+10-02 15:43:10.159  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.j4@81b870e
+10-02 15:43:10.160  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.j4@9b2f52f
+10-02 15:43:10.160  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.j4@9b2f52f
+10-02 15:43:10.160  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.j4@940e73c
+10-02 15:43:10.160  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.j4@940e73c
+10-02 15:43:10.161  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.j4@b7eecc5
+10-02 15:43:10.161  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.j4@b7eecc5
+10-02 15:43:10.162  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.j4@68d061a
+10-02 15:43:10.162  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.j4@68d061a
+10-02 15:43:10.164  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.s6@403b54b
+10-02 15:43:10.164  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.s6@403b54b
+10-02 15:43:10.164  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.s6@9d33b28
+10-02 15:43:10.164  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.s6@9d33b28
+10-02 15:43:10.165  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.s6@3e69041
+10-02 15:43:10.165  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.s6@3e69041
+10-02 15:43:10.165  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.s6@c6569e6
+10-02 15:43:10.166  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.s6@c6569e6
+10-02 15:43:10.166  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.s6@b565b27
+10-02 15:43:10.166  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.s6@b565b27
+10-02 15:43:10.167  1363  1363 V StdFitBuilder: [2] [2] add 1633185789000 com.garmin.fit.s6@ab4e1d4
+10-02 15:43:10.167  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.s6@ab4e1d4
+10-02 15:43:10.168  1363  1363 I StdPeriodDao: [2] createSession StdPeriodDao SES [id=0 ELEMNT BOLT 981E:29 ses=0]
+10-02 15:43:10.169  1363  1363 I StdPeriodDao: [2] createLap StdPeriodDao LAP [id=0 ELEMNT BOLT 981E:29 ses=0 lap=0]
+10-02 15:43:10.173  1363  1363 V StdSessionWorkout-ELEMNT BOLT 981E:29: [2] StdSessionWorkout setting LOCAL workout INCOMPLETE
+10-02 15:43:10.187  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.191  1363  1363 I StdWorkoutTransferStateManager: [2] setTransferState ELEMNT BOLT 981E:29 INCOMPLETE LOCAL
+10-02 15:43:10.192  1363  1363 I StdSessionWorkout-ELEMNT BOLT 981E:29: [2] commitLastAsync start
+10-02 15:43:10.193  1363  1363 V StdSessionSession: [2] commitLastAsync
+10-02 15:43:10.200  1363  1363 V StdSessionLap: [2] commitLastAsync
+10-02 15:43:10.200  1363  1363 V StdLogcatFileSaverManager: [2] rotateLogFile WO:29 null true
+10-02 15:43:10.202  1363  1363 V Poller  : [2] stop 4 pollers running
+10-02 15:43:10.204  1363  1363 V BACloudLogSyncManagerApp: [2] << LogcatFileSaver onLogFileComplete /data/user/0/com.wahoofitness.bolt/files/logs/ready/BoltApp.20211002.103110.txt BoltApp 2021/10/02 10:31:10 (1633185070792)
+10-02 15:43:10.204  1363  1363 V BACloudLogSyncManagerApp: [2] registerLogUpload /data/user/0/com.wahoofitness.bolt/files/logs/ready/BoltApp.20211002.103110.txt 2021/10/02 10:31:10 (1633185070792) BoltApp []
+10-02 15:43:10.205  1363  1363 V BACloudLogSyncManagerApp: [2] getThread creating HandlerThreadPoster
+10-02 15:43:10.212  1363  1363 V HandlerThreadPoster-LogCount: [2] increment current=13 max=13 total=13
+10-02 15:43:10.213  1363  1363 I LogcatFileSaver: [2] stop
+10-02 15:43:10.214  1363  1363 I LogcatFileSaver: [2] start cmd= logcat -v threadtime  -f /data/user/0/com.wahoofitness.bolt/files/logs/tmp/BoltApp.WO:29.20211002.104310.txt
+10-02 15:43:10.219  1363  1467 V WORKOUT:29:-1:-1: [149] setCruxWorkoutType BIKING
+10-02 15:43:10.219  1363  1467 V WORKOUT:29:-1:-1: [149] commit 0 StdSessionWorkout-ELEMNT BOLT 981E:29
+10-02 15:43:10.220  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.226  1363  1733 V StdCloudLogSyncManagerApp: [242] registerLogUpload /data/user/0/com.wahoofitness.bolt/files/logs/ready/BoltApp.20211002.103110.txt CloudLogFileApp [2021/10/02 10:31:10 (1633185070792) /data/user/0/com.wahoofitness.bolt/files/logs/ready/BoltApp-20211002_143110.792-?-.txt] SUCCESS
+10-02 15:43:10.226  1363  1733 V StdRunnable: [242] StdCloudLogSyncManagerApp-registerLogUpload took 13 ms
+10-02 15:43:10.237  1363  1363 V Poller  : [2] start Handler-LogcatFileSaver 5 pollers running
+10-02 15:43:10.237  1363  1363 I LogcatFileSaver: [2] start /data/user/0/com.wahoofitness.bolt/files/logs/tmp/BoltApp.WO:29.20211002.104310.txt
+10-02 15:43:10.280  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType FirmwareVersion added to ANTConnectionParams [HRM:38333:1]
+10-02 15:43:10.280  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType Battery added to ANTConnectionParams [HRM:38333:1]
+10-02 15:43:10.280  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType CruxCapability added to ANTConnectionParams [HRM:38333:1]
+10-02 15:43:10.281  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType FirmwareVersion added to ANTConnectionParams [HRM:38333:1]
+10-02 15:43:10.281  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType Battery added to ANTConnectionParams [HRM:38333:1]
+10-02 15:43:10.281  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType CruxCapability added to ANTConnectionParams [HRM:38333:1]
+10-02 15:43:10.288  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg 1633185789976 deviceIndex=1 productTypeName=Heartrate antSensorType=PLUS_HEART_RATE
+10-02 15:43:10.320  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.321  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE=1.6981757879257202 REVS=2.144693374633789]
+10-02 15:43:10.321  1363  1552 V notifyCrankRevsData: [174] com.wahoofitness.connector.conn.characteristics.crux.e$d@ca52613
+10-02 15:43:10.322  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE_BIKE=1.6981757879257202 CRANK_REVS=2.144693374633789]
+10-02 15:43:10.322  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [TORQUE_BIKE 1.75]
+10-02 15:43:10.322  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER 185.57479858398438]
+10-02 15:43:10.323  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK deltaMs = 1250 deltaValue = 151.4390869140625]
+10-02 15:43:10.323  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE 185.57479858398438]
+10-02 15:43:10.323  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK_BIKE deltaMs = 1250 deltaValue = 151.4390869140625]
+10-02 15:43:10.323  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.018672417849302292 CALORIES=0.15143908560276031]
+10-02 15:43:10.324  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_PWR=0.018672417849302292 CALORIES_PWR=0.15143908560276031]
+10-02 15:43:10.327  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg batteryLevel GOOD
+10-02 15:43:10.328  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg antId 38333
+10-02 15:43:10.328  1363  1363 D ConnectionParamsSet: [2] [2] getPreferredConnectionParams No-BTLE + ANT, using all ANT 1
+10-02 15:43:10.329  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg networkType ANT_PLUS
+10-02 15:43:10.340  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg batteryVoltage null
+10-02 15:43:10.340  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg percent -1
+10-02 15:43:10.340  1363  1363 V StdSensor-HRM:38333: [2] getManualZeroCalibrationResult no processor
+10-02 15:43:10.341  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg manualZeroCalibrationResult null
+10-02 15:43:10.341  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg crankLengthMm null
+10-02 15:43:10.341  1363  1363 V StdFitBuilder: [2] [2] add 1633185789976 com.garmin.fit.w1@99d3050
+10-02 15:43:10.341  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.w1@99d3050
+10-02 15:43:10.350  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType CrankRevs added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.350  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType BikeTorque added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.351  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType Battery added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.351  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType ManualZeroCalibration added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.351  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType FirmwareVersion added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.351  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType CruxCapability added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.351  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType CrankRevs added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.351  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType BikeTorque added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.352  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType Battery added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.352  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType ManualZeroCalibration added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.352  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType FirmwareVersion added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.352  1363  1363 V CapabilityStore: [2] [2] populate dynamic CapabilityType CruxCapability added to ANTConnectionParams [PM:8805:5]
+10-02 15:43:10.353  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg 1633185789976 deviceIndex=2 productTypeName=Power antSensorType=PLUS_BIKE_POWER
+10-02 15:43:10.361  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg manufacturer 263 FAVERO_ELECTRONICS
+10-02 15:43:10.367  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg modelNumber 10
+10-02 15:43:10.367  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg swVersion 47.5
+10-02 15:43:10.368  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg hwVersion 4
+10-02 15:43:10.368  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg batteryLevel GOOD
+10-02 15:43:10.368  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg antId 8805
+10-02 15:43:10.369  1363  1363 D ConnectionParamsSet: [2] [2] getPreferredConnectionParams No-BTLE + ANT, using all ANT 1
+10-02 15:43:10.369  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg networkType ANT_PLUS
+10-02 15:43:10.369  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg batteryVoltage 3.7773438
+10-02 15:43:10.370  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg percent -1
+10-02 15:43:10.370  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg manualZeroCalibrationResult MyManualZeroCalibrationResult [torqueOffset=0]
+10-02 15:43:10.370  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg torqueOffset 0
+10-02 15:43:10.383  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg crankLengthMm 170.0
+10-02 15:43:10.386  1363  1363 V StdFitBuilder: [2] [2] add 1633185789976 com.garmin.fit.w1@a789a44
+10-02 15:43:10.387  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.w1@a789a44
+10-02 15:43:10.387  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg 1633185789976 deviceIndex=3 productTypeName=GPS antSensorType=UNKNOWN
+10-02 15:43:10.387  1363  1363 V StdSensor-GPS: [2] getBatteryCount no StdBatteryProcessor
+10-02 15:43:10.388  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg batteryLevel UNKNOWN
+10-02 15:43:10.388  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg antId -1
+10-02 15:43:10.388  1363  1363 W ConnectionParamsSet: [2] [2] getPreferredConnectionParams No-BTLE + No-ANT, using GPSConnectionParams [GPS GPS id=GPS:1000:0.0:0.0:0:4:30.0:2.0:0.56 minAccM=0.0 minDistM=0.0 minSats=0 minTimeMs=1000 mHorAccThresholdMeters=4]
+10-02 15:43:10.388  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg networkType GPS
+10-02 15:43:10.388  1363  1467 V BADatabase: [149] createOrUpdate StdPeriodDao WO [id=147 ELEMNT BOLT 981E:29 summaryClId=0 partDbId=0 userClID=900352 1633185789000] StdPeriodDao WO [id=147 ELEMNT BOLT 981E:29 summaryClId=0 partDbId=0 userClID=900352 1633185789000] created
+10-02 15:43:10.388  1363  1363 V StdSensor-GPS: [2] getManualZeroCalibrationResult no processor
+10-02 15:43:10.388  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg manualZeroCalibrationResult null
+10-02 15:43:10.389  1363  1363 V StdFitUtils: [2] encodeDeviceInfoMesg crankLengthMm null
+10-02 15:43:10.389  1363  1363 V StdFitBuilder: [2] [2] add 1633185789976 com.garmin.fit.w1@8f2972d
+10-02 15:43:10.389  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185789000 com.garmin.fit.w1@8f2972d
+10-02 15:43:10.389  1363  1363 V Poller  : [2] start Handler-StdSessionManager-AutoSave 6 pollers running
+10-02 15:43:10.390  1363  1363 I StdWorkoutLiveStateManager: [2] setStdWorkoutLiveState ELEMNT BOLT 981E:29 LIVE_ACTIVE changed
+10-02 15:43:10.391  1363  1363 I StdSessionManager: [2] [2] [Active] setState from Ready to Active
+10-02 15:43:10.391  1363  1363 V TimeInstant: [2] lockTimeMs lock=true
+10-02 15:43:10.392  1363  1363 I PowerPartialWakeLock-StdSessionManager: [2] acquire
+10-02 15:43:10.393  1363  1467 V BADatabase: [149] queryCount StdPeriodDao  returned 147
+10-02 15:43:10.397  1363  1363 V BAAmbientLightManager: [2] << SensorEventListener onSensorChanged 587000
+10-02 15:43:10.398  1363  1363 I BTestModeListener: [2] [2] onButtonEvent 0 0
+10-02 15:43:10.398  1363  1363 V BHomeActivity: [2] << BNotifManager onDlgNotifChanged
+10-02 15:43:10.398  1363  1363 V BAHomeNotifHelper: [2] hide
+10-02 15:43:10.398  1363  1467 V BADatabase: [149] queryCount StdPeriodDao [periodTypeCode eq 7] [deviceId eq ELEMNT BOLT 981E] [deleted eq 0] returned 28
+10-02 15:43:10.399  1363  1363 I BFooterView: [2] setFooterInfo FooterActions [left=LAP, center=PAUSE, right=PAGE]
+10-02 15:43:10.399  1363  1467 V StdPeriodDao: [149] checkInitWorkoutCount 28 took 4 ms
+10-02 15:43:10.404  1363  1467 V StdPeriodDao: [149] checkInitLastNonDeletedWorkoutNum 29 took 5 ms
+10-02 15:43:10.405  1363  1467 V WORKOUT:29:-1:-1: [149] commit took 186 ms
+10-02 15:43:10.405  1363  1467 V StdRunnable: [149] StdSessionWorkout-ELEMNT BOLT 981E:29-commitLastAsync took 212 ms
+10-02 15:43:10.411  1363  1363 D BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph x span:  3218.69
+10-02 15:43:10.413  1363  1363 V StdSensorManager: [2] << StdSessionManager onWorkoutStateChanged READY to ACTIVE STARTED
+10-02 15:43:10.413  1363  1363 V StdCruxCapabilityProcessor: [2] onWorkoutStateChanged READY to ACTIVE STARTED
+10-02 15:43:10.413  1363  1467 V SESSION:29:0:-1: [149] commit 0 StdSessionSession
+10-02 15:43:10.414  1363  1363 V StdCruxCapabilityProcessor: [2] onWorkoutStateChanged READY to ACTIVE STARTED
+10-02 15:43:10.415  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.415  1363  1363 V StdSensorManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.416  1363  1363 I StdSensorManager: [2] refreshStdSensors reason= workout start/stop
+10-02 15:43:10.416  1363  1363 V Prefs   : [2] [2] Prefs BSensorStore-Paired-65534 0 records took 0 ms
+10-02 15:43:10.417  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"ANT-ANTPLUS_HEART_RATE_SENSOR-38333","connectionParams":[{"networkType":"ANT","sensorType":"HEARTRATE","deviceName":"HRM:38333","antSensorTypeSerialized":"ANTPLUS_HEART_RATE_SENSOR","deviceNumber":38333,"transmissionType":1}]}
+10-02 15:43:10.421  1363  1467 V BADatabase: [149] createOrUpdate StdPeriodDao SES [id=148 ELEMNT BOLT 981E:29 ses=0] StdPeriodDao SES [id=148 ELEMNT BOLT 981E:29 ses=0] created
+10-02 15:43:10.428  1363  1467 V SESSION:29:0:-1: [149] commit took 15 ms
+10-02 15:43:10.428  1363  1467 V StdRunnable: [149] StdSessionSession-commitLastAsync took 23 ms
+10-02 15:43:10.436  1363  1467 V LAP:29:0:0: [149] commit 0 StdSessionLap
+10-02 15:43:10.439  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"BTLE-F6:B5:2D:40:49:D4","connectionParams":[{"networkType":"BTLE","sensorType":"HEARTRATE","deviceName":"TICKR 755E","bluetoothDevice":"F6:B5:2D:40:49:D4","addressType":1},{"networkType":"ANT","sensorType":"HEARTRATE","deviceName":"HRM:30046","antSensorTypeSerialized":"ANTPLUS_HEART_RATE_SENSOR","deviceNumber":30046,"transmissionType":5}]}
+10-02 15:43:10.441  1363  1467 V BADatabase: [149] createOrUpdate StdPeriodDao LAP [id=149 ELEMNT BOLT 981E:29 ses=0 lap=0] StdPeriodDao LAP [id=149 ELEMNT BOLT 981E:29 ses=0 lap=0] created
+10-02 15:43:10.441  1363  1467 V LAP:29:0:0: [149] commit took 5 ms
+10-02 15:43:10.441  1363  1467 V StdRunnable: [149] StdSessionLap-commitLastAsync took 13 ms
+10-02 15:43:10.457  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"BTLE-4A:BF:07:96:7D:FB","connectionParams":[{"networkType":"BTLE","sensorType":"HEARTRATE","deviceName":"TICKR BD18","bluetoothDevice":"4A:BF:07:96:7D:FB","addressType":1}]}
+10-02 15:43:10.464  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"ANT-ANTPLUS_BIKE_POWER_SENSOR-8805","connectionParams":[{"networkType":"ANT","sensorType":"BIKE_POWER","deviceName":"PM:8805","antSensorTypeSerialized":"ANTPLUS_BIKE_POWER_SENSOR","deviceNumber":8805,"transmissionType":5}]}
+10-02 15:43:10.475  1363  1363 V StdSensorProfileManager: [2] getPairedCpSets took 59 ms
+10-02 15:43:10.503  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.535  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"ANT-ANTPLUS_HEART_RATE_SENSOR-38333","connectionParams":[{"networkType":"ANT","sensorType":"HEARTRATE","deviceName":"HRM:38333","antSensorTypeSerialized":"ANTPLUS_HEART_RATE_SENSOR","deviceNumber":38333,"transmissionType":1}]}
+10-02 15:43:10.544  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"BTLE-F6:B5:2D:40:49:D4","connectionParams":[{"networkType":"BTLE","sensorType":"HEARTRATE","deviceName":"TICKR 755E","bluetoothDevice":"F6:B5:2D:40:49:D4","addressType":1},{"networkType":"ANT","sensorType":"HEARTRATE","deviceName":"HRM:30046","antSensorTypeSerialized":"ANTPLUS_HEART_RATE_SENSOR","deviceNumber":30046,"transmissionType":5}]}
+10-02 15:43:10.550  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:10.550  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 08 00]
+10-02 15:43:10.551  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:10.551  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:10.551  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:10.557  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:10.557  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 6ms
+10-02 15:43:10.558  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 7ms
+10-02 15:43:10.559  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"BTLE-4A:BF:07:96:7D:FB","connectionParams":[{"networkType":"BTLE","sensorType":"HEARTRATE","deviceName":"TICKR BD18","bluetoothDevice":"4A:BF:07:96:7D:FB","addressType":1}]}
+10-02 15:43:10.564  1363  1363 D ConnectionParamsSet: [2] [2] deserialize {"id":"ANT-ANTPLUS_BIKE_POWER_SENSOR-8805","connectionParams":[{"networkType":"ANT","sensorType":"BIKE_POWER","deviceName":"PM:8805","antSensorTypeSerialized":"ANTPLUS_BIKE_POWER_SENSOR","deviceNumber":8805,"transmissionType":5}]}
+10-02 15:43:10.573  1363  1363 V StdSensorProfileManager: [2] getPairedCpSets took 38 ms
+10-02 15:43:10.587  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [103bpm]
+10-02 15:43:10.587  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.7166666984558105 HEART_BEATS=0.8380999565124512]
+10-02 15:43:10.588  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.0821470394730568 CALORIES=0.03962026536464691]
+10-02 15:43:10.588  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.0821470394730568 CALORIES_HR=0.03962026536464691]
+10-02 15:43:10.608  1363  1363 V StdSensorManager: [2] refreshStdSensors 8 cpSets
+10-02 15:43:10.609  1363  1363 I StdSensor-HRM:38333: [2] request StdSensorManager
+10-02 15:43:10.610  1363  1363 I StdSensor-HRM:38333: [2] request clients= [StdSensorManager]
+10-02 15:43:10.610  1363  1363 I StdSensor-ACCELEROMETER: [2] request StdSensorManager
+10-02 15:43:10.610  1363  1363 I StdSensor-ACCELEROMETER: [2] request clients= [StdSensorManager]
+10-02 15:43:10.610  1363  1363 I StdSensor-BAROMETER: [2] request StdSensorManager
+10-02 15:43:10.610  1363  1363 I StdSensor-BAROMETER: [2] request clients= [StdSensorManager]
+10-02 15:43:10.610  1363  1363 I StdSensor-PM:8805: [2] request StdSensorManager
+10-02 15:43:10.610  1363  1363 I StdSensor-PM:8805: [2] request clients= [StdSensorManager]
+10-02 15:43:10.610  1363  1363 I StdSensor-TICKRBD18: [2] request StdSensorManager
+10-02 15:43:10.610  1363  1363 I StdSensor-TICKRBD18: [2] request clients= [StdSensorManager]
+10-02 15:43:10.610  1363  1363 I StdSensor-TEMPERATURESENSOR: [2] request StdSensorManager
+10-02 15:43:10.611  1363  1363 I StdSensor-TEMPERATURESENSOR: [2] request clients= [StdSensorManager]
+10-02 15:43:10.611  1363  1363 I StdSensor-TICKR755E: [2] request StdSensorManager
+10-02 15:43:10.611  1363  1363 I StdSensor-TICKR755E: [2] request clients= [StdSensorManager]
+10-02 15:43:10.611  1363  1363 I StdSensor-GPS: [2] request StdSensorManager
+10-02 15:43:10.611  1363  1363 I StdSensor-GPS: [2] request clients= [StdSensorManager]
+10-02 15:43:10.620  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [7 CpSet [ANTConnectionParams [HRM:38333:1]]]
+10-02 15:43:10.620  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [18 CpSet [AccelConnectionParams [ACCELEROMETER ACCEL samplePeriod=3]]]
+10-02 15:43:10.620  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [0 CpSet [BaromConnectionParams [BAROMETER BAROM samplePeriod=1000000]]]
+10-02 15:43:10.620  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [13 CpSet [ANTConnectionParams [PM:8805:5]]]
+10-02 15:43:10.620  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [3 CpSet [BTLEConnectionParams [TICKR BD18 HEARTRATE 4A:BF:07:96:7D:FB RANDOM_STATIC_ADDRESS]]]
+10-02 15:43:10.620  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [1 CpSet [TempConnectionParams [TEMPERATURE SENSOR TEMP samplePeriod=3]]]
+10-02 15:43:10.621  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [16 CpSet [BTLEConnectionParams [TICKR 755E HEARTRATE F6:B5:2D:40:49:D4 RANDOM_STATIC_ADDRESS] ANTConnectionParams [HRM:30046:5]]]
+10-02 15:43:10.621  1363  1363 V StdSensorManager: [2] refreshStdSensors keep          StdSensor [15 CpSet [GPSConnectionParams [GPS GPS id=GPS:1000:0.0:0.0:0:4:30.0:2.0:0.56 minAccM=0.0 minDistM=0.0 minSats=0 minTimeMs=1000 mHorAccThresholdMeters=4]]]
+10-02 15:43:10.621  1363  1363 V StdSensor-HRM:38333: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.621  1363  1363 V StdCruxCapabilityProcessor: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.624  1363  1363 V StdSensor-ACCELEROMETER: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.624  1363  1363 V StdSensor-BAROMETER: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.625  1363  1363 V StdSensor-PM:8805: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.625  1363  1363 V StdCruxCapabilityProcessor: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.625  1363  1363 V StdSensor-TICKRBD18: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.631  1363  1363 V StdSensor-TEMPERATURESENSOR: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.631  1363  1363 V StdSensor-TICKR755E: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.631  1363  1363 V StdSensor-GPS: [2] onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.633  1363  1363 V BWifiManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.637  1363  1363 V BSystemManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.639  1363  1363 I BNotifManager: [2] [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.643  1363  1363 I BNotifManager: [2] [2] update adding BNotif_WorkoutStartResume at index 0
+10-02 15:43:10.644  1363  1363 D BLedManager: [2] [2] sendLedCmd sending TOP BLedCmd [2 T0#55AAFFFF T1#55AAFFFF T2#55AAFFFF T3#55AAFFFF T4#55AAFFFF T5#55AAFFFF T6#55AAFFFF S#200 T0#0 T1#0 T2#0 T3#0 T4#0 T5#0 T6#0 S#200 T0#55AAFFFF T1#55AAFFFF T2#55AAFFFF T3#55AAFFFF T4#55AAFFFF T5#55AAFFFF T6#55AAFFFF S#200 T0#0 T1#0 T2#0 T3#0 T4#0 T5#0 T6#0]
+10-02 15:43:10.645  1363  1363 D BLedManager: [2] [2] sendLedCmd sending LEFT BLedCmd [1 L0#0 L1#0 L2#0 L3#0 L4#0 L5#0 L6#0]
+10-02 15:43:10.646  1363  1363 I BNotifManager: [2] [2] update new buzzer BNotif_WorkoutStartResume
+10-02 15:43:10.646  1363  1363 V BBuzzerManager: [2] sendPattern B#1046 S#20 B#0 S#1 B#2093 S#50 B#0 S#10 B#1046 S#20 B#0 S#1 B#2093 S#20 B#0 S#5 B#1046 S#20 B#0 S#1 B#2093 S#50 B#0 S#10 B#1046 S#20 B#0 S#1 B#2794 S#60 B#0 S#90 B#2093 S#50 B#0 S#10 B#1046 S#20 B#0 S#1 B#2794 S#60 B#0
+10-02 15:43:10.648  1363  1363 I BNotifManager: [2] [2] update new dlg BNotif_WorkoutStartResume
+10-02 15:43:10.648  1363  1363 D StdAutoLapManager: [2] [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START resetting
+10-02 15:43:10.649  1363  1363 I BAutoWorkoutTypeManager: [2] << StdSessionManager onSessionEvent START
+10-02 15:43:10.649  1363  1363 I BAutoWorkoutTypeManager: [2] refreshState workout live, using pinned kickr present false
+10-02 15:43:10.649  1363  1363 I BAutoWorkoutTypeManager: [2] refreshState setCruxWorkoutType 0  resolvedWorkoutName= Cycling
+10-02 15:43:10.649  1363  1363 D StdCfgManager: [2] [2] setValue null 65535 WORKOUT_TYPE 0
+10-02 15:43:10.649  1363  1363 D StdCfgManager: [2] [2] setValue null 65535 PROFILE_NAME Cycling
+10-02 15:43:10.650  1363  1363 I BStartReminderManager: [2] [2] onSessionEvent START disabling
+10-02 15:43:10.650  1363  1363 I BStartReminderManager: [2] [2] disable
+10-02 15:43:10.650  1363  1363 D StdPlanManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.651  1363  1363 D BACustomAlertsManager: [2] << StdSessionManager onSessionEvent, refreshPlans ELEMNT BOLT 981E:29 START
+10-02 15:43:10.654  1363  1363 V BAXDripManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.655  1363  1363 V BAXDripManager: [2] onSessionEvent no XDrip connected
+10-02 15:43:10.655  1363  1363 V StdPioneerPmManager: [2] << StdSessionManager onSessionEvent START
+10-02 15:43:10.656  1363  1363 D BAGpsPosAssistManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.660  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit validityRemainingMins= 0.0
+10-02 15:43:10.663  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@f6e6741
+10-02 15:43:10.664  1363  1363 V StdFitBuilder: [2] [2] add 1633185790663 com.garmin.fit.ca@f6e6741
+10-02 15:43:10.665  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@f6e6741
+10-02 15:43:10.665  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit mStartupLleValidity= false
+10-02 15:43:10.665  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@2bdf4e6
+10-02 15:43:10.666  1363  1363 V StdFitBuilder: [2] [2] add 1633185790665 com.garmin.fit.ca@2bdf4e6
+10-02 15:43:10.666  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@2bdf4e6
+10-02 15:43:10.669  1363  1467 V BADatabase: [149] query CloudPlanDao [planType eq 2] [planWorkoutType eq 0] returned 0 results
+10-02 15:43:10.669  1363  1467 V StdRunnable: [149] StdDatabaseManager-query-CloudPlanDao took 16 ms
+10-02 15:43:10.669  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit timeToFirstFixSecs= 77
+10-02 15:43:10.669  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@b638a27
+10-02 15:43:10.670  1363  1363 V StdFitBuilder: [2] [2] add 1633185790669 com.garmin.fit.ca@b638a27
+10-02 15:43:10.670  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@b638a27
+10-02 15:43:10.670  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit lastInjectionTimeMs= null
+10-02 15:43:10.674  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit latDeg= 0.0
+10-02 15:43:10.674  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@ea3e4d4
+10-02 15:43:10.674  1363  1363 V StdFitBuilder: [2] [2] add 1633185790674 com.garmin.fit.ca@ea3e4d4
+10-02 15:43:10.674  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@ea3e4d4
+10-02 15:43:10.674  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit lastLon= 0.0
+10-02 15:43:10.674  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@b79367d
+10-02 15:43:10.674  1363  1363 V StdFitBuilder: [2] [2] add 1633185790674 com.garmin.fit.ca@b79367d
+10-02 15:43:10.675  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@b79367d
+10-02 15:43:10.677  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit altM= 3.4028234663852886E38
+10-02 15:43:10.677  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@2e47972
+10-02 15:43:10.677  1363  1363 V StdFitBuilder: [2] [2] add 1633185790677 com.garmin.fit.ca@2e47972
+10-02 15:43:10.677  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@2e47972
+10-02 15:43:10.678  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit latFirstFixDeg= 43.64743
+10-02 15:43:10.678  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@874a1c3
+10-02 15:43:10.678  1363  1363 V StdFitBuilder: [2] [2] add 1633185790678 com.garmin.fit.ca@874a1c3
+10-02 15:43:10.678  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@874a1c3
+10-02 15:43:10.678  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit lonFirstFixDeg= -72.46260333333333
+10-02 15:43:10.678  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@2c47a40
+10-02 15:43:10.678  1363  1363 V StdFitBuilder: [2] [2] add 1633185790678 com.garmin.fit.ca@2c47a40
+10-02 15:43:10.679  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@2c47a40
+10-02 15:43:10.679  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit altFirstFixM= -84.0
+10-02 15:43:10.679  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@867bd79
+10-02 15:43:10.679  1363  1363 V StdFitBuilder: [2] [2] add 1633185790679 com.garmin.fit.ca@867bd79
+10-02 15:43:10.680  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@867bd79
+10-02 15:43:10.680  1363  1363 V BAGpsPosAssistManager: [2] writeGpsStatsToFit horAccFirstFixM= 45.099998474121094
+10-02 15:43:10.680  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@47cbabe
+10-02 15:43:10.680  1363  1363 V StdFitBuilder: [2] [2] add 1633185790680 com.garmin.fit.ca@47cbabe
+10-02 15:43:10.680  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@47cbabe
+10-02 15:43:10.680  1363  1363 V BAGpsPosAssistManager: [2] notifyHorAcc10SecToStdFitMesg mHorAcc10SecsFirstFixM= 34.5
+10-02 15:43:10.681  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@6f5971f
+10-02 15:43:10.681  1363  1363 V StdFitBuilder: [2] [2] add 1633185790681 com.garmin.fit.ca@6f5971f
+10-02 15:43:10.681  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@6f5971f
+10-02 15:43:10.681  1363  1363 V BAGpsPosAssistManager: [2] notifyHorAcc10SecToStdFitMesg mHorAcc30SecFirstFixM= 11.0
+10-02 15:43:10.681  1363  1363 V StdSessionManager: [2] [2] [Active] addMesg com.garmin.fit.ca@b96fa6c
+10-02 15:43:10.681  1363  1363 V StdFitBuilder: [2] [2] add 1633185790681 com.garmin.fit.ca@b96fa6c
+10-02 15:43:10.681  1363  1363 D StdFitBuilder: [2] [2] addMesg 1633185790000 com.garmin.fit.ca@b96fa6c
+10-02 15:43:10.683  1363  1363 V BACloudDevicesSyncManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.701  1363  1363 V BACloudDevicesSyncManager: [2] onSessionEvent START JsonObject [{"deviceId":"ELEMNT BOLT 981E","workoutId":29,"backlight":"AUTO","led_mode":"OFF","workout_mode":"OUTDOOR","start_battery_percent":88,"device_firmware_version":"1.49.0.10 (13657)"}]
+10-02 15:43:10.701  1363  1363 I BAAngiManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.706  1363  1363 V StdAnalyticsManager: [2] << StdSessionManager onSessionEvent ELEMNT BOLT 981E:29 START
+10-02 15:43:10.706  1363  1363 V BWorkoutCharacteristic: [2] >> BWorkoutStateUtils getBWorkoutStatus in handleReq_GetWorkoutStatus
+10-02 15:43:10.706  1363  1363 V BWorkoutCharacteristic: [2] << BWorkoutStateUtils onComplete in handleReq_GetWorkoutStatus
+10-02 15:43:10.706  1363  1363 V CmdQueue-BTLECmdQueue: [2] add BxCA-WO-157 1
+10-02 15:43:10.707  1363  1363 D BClimbFragment: [2] << StdSessionManager onSessionEvent START
+10-02 15:43:10.707  1363  1363 V BClimbFragment: [2] reloadGraph onSessionEvent START
+10-02 15:43:10.707  1363  1363 D BClimbFragment: [2] clearUserLine
+10-02 15:43:10.707  1363  1363 D BClimbFragment: [2] clearPlannedLine
+10-02 15:43:10.707  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] initLines
+10-02 15:43:10.707  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] initLines pre-route user data needed
+10-02 15:43:10.708  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-157 [00 1D 00 01 01 +7]
+10-02 15:43:10.708  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:10.708  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-157 1
+10-02 15:43:10.708  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:10.713  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] initLines 7477 route points added
+10-02 15:43:10.714  1363  1363 V BHomeActivity: [2] << BNotifManager onDlgNotifChanged
+10-02 15:43:10.714  1363  1363 V BAHomeNotifHelper: [2] show heightPx=173
+10-02 15:43:10.714  1363  1363 V BNotifFragment: [2] setContentView [notif-changed] set view
+10-02 15:43:10.715  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:10.715  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 7ms
+10-02 15:43:10.715  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-157 8ms
+10-02 15:43:10.718  1363  1363 D BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph x span:  3218.69
+10-02 15:43:10.718  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph user moved past threshold, updateGraph
+10-02 15:43:10.719  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph updateGraph
+10-02 15:43:10.719  1363  1363 D BGraphViewUserPlanned: [2] adjustAxisPlannedRemaining
+10-02 15:43:10.721  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph 4 X=BAxis [0.0 74760.0] Y=BAxis [-26.008295 546.1742]
+10-02 15:43:10.723  1363  1363 V GPSDevice: [2] onLocationChanged 1098222520 loc=43.645848,-72.464122 alt=287.84 horAcc=11.00 bearing=3.80 gpsSpeed=3.44 sats=12
+10-02 15:43:10.724  1363  1363 V GPSDevice: [2] getBestSpeed horAcc > 4m, reset MAs and use gps speed
+10-02 15:43:10.724  1363  1363 V GPSDevice: [2] notifyGpsData GpsData [ loc=43.645848,-72.464122 alt=287.84 moving=true spd=3.44 spdIsGps=true horAcc=11.00 dist=23.65 head=3.80 sats=12]
+10-02 15:43:10.726  1363  1363 V BSystemManager: [2] checkUpdateAutoShutdown button
+10-02 15:43:10.726  1363  1363 V BSystemManager: [2] checkUpdateAutoShutdown 900 seconds remaining
+10-02 15:43:10.727  1363  1363 V BBacklightManager: [2] onButtonEvent 0 3
+10-02 15:43:10.727  1363  1363 I BTestModeListener: [2] [2] onButtonEvent 0 3
+10-02 15:43:10.728  1363  1363 V BSystemManager: [2] checkUpdateAutoShutdown button
+10-02 15:43:10.728  1363  1363 V BSystemManager: [2] checkUpdateAutoShutdown 900 seconds remaining
+10-02 15:43:10.728  1363  1363 V BBacklightManager: [2] onButtonEvent 0 2
+10-02 15:43:10.729  1363  1363 I BTestModeListener: [2] [2] onButtonEvent 0 2
+10-02 15:43:10.734  1363  1363 V Handler-StdManager-LogCount: [2] increment current=150 max=150 total=150
+10-02 15:43:10.735  1363  1363 V BACloudLogSyncManagerApp: [2] syncSoon registerLogUpload
+10-02 15:43:10.739  1363  1363 D BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph x span:  3218.69
+10-02 15:43:10.739  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GPGGA,144315.00,4338.7509,N,07227.8473,W,1,12,0.8,292.6,M,-32.7,M,,*58
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GNGLL,4338.7509,N,07227.8473,W,144315.00,A,A*6C
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GNGSA,A,3,02,05,06,13,15,18,20,29,,,,,1.4,0.8,1.1,1*3B
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GNGSA,A,3,66,67,68,81,,,,,,,,,1.4,0.8,1.1,2*39
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GPGSV,4,1,13,02,47,111,34,05,78,316,34,06,06,113,19,07,09,055,26,0*6D
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185789 $GPGSV,4,2,13,11,38,104,,13,45,157,28,15,29,195,31,18,12,298,27,0*69
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GPGSV,4,3,13,20,57,055,39,25,03,238,24,26,02,321,,29,56,281,35,0*62
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GPGSV,4,4,13,30,10,087,26,,,,,,,,,,,,,0*5E
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GLGSV,2,1,08,66,27,036,31,67,83,024,29,68,40,218,30,74,01,329,,0*7F
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GLGSV,2,2,08,75,02,017,,81,28,137,24,82,79,109,25,83,46,327,29,0*78
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GNRMC,144315.00,A,4338.7509,N,07227.8473,W,6.7,3.8,021021,,,A,V*2B
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GNVTG,3.8,T,,M,6.7,N,12.4,K,A*2E
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GNZDA,144315.00,02,10,2021,,*7C
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSEPU,16.1,11.0,8.2,7.3,11.8,2.55,1.58,4.9,0.89,1.30,2.00*43
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSVLF,12.70,12.40,3.8,0.80,12.37,-2.87*78
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,1,01,02,0,571412.348488628,43,33.3,21996515.939,206.112,0.1,01,632712.300,0.00844,2,47,111,9,4,2,1,01083,N,F,1
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,2,01,05,0,571412.354674861,33,33.6,20141929.725,-140.698,0.1,09,-335467.618,0.00649,2,78,316,9,4,1,1,00739,P,F
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,3,01,06,0,571412.338146920,140,18.5,25096882.058,474.104,0.6,01,1793613.704,0.02727,2,06,113,9,4,2,1,02491,N,F
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,4,01,07,0,571412.338086140,30,25.2,25115103.331,-226.069,0.3,01,-415853.614,0.00584,1,09,055,9,4,1,0,01188,P,F
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,5,01,11,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,38,104,,,,,,,,1,0*6A
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,6,01,13,0,571412.350146354,106,27.5,21499542.180,-637.792,0.2,01,-2085574.024,0.02078,2,45,157,9,4,2,1,03351,P
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,7,01,15,0,571412.346028269,66,30.5,22734113.086,-825.561,0.2,01,-2710892.378,0.01299,2,29,195,9,4,2,1,04338,P,
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,8,01,18,0,571412.340540110,26,26.0,24379421.647,-737.701,0.3,01,-2044392.983,0.00519,1,12,298,9,4,2,1,03876,P,
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,9,01,20,0,571412.352639928,16,38.4,20751987.394,175.239,0.1,01,521920.733,0.00325,1,57,055,9,4,1,1,00920,N,F,1
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,10,01,25,0,571412.336713637,73,23.9,25526569.436,439.154,0.4,01,1528129.692,0.01429,2,03,238,9,4,2,1,02307,N,F
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,11,01,26,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,321,,,,,,,,1,0*57
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,12,01,29,0,571412.351464478,90,34.2,21104378.390,-244.915,0.1,1A,-972740.157,0.01753,2,56,281,9,4,1,1,01287,P,
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,13,01,30,0,571412.338736848,106,25.3,24920026.104,-478.072,0.3,01,-1222346.301,0.02078,2,10,087,9,4,1,0,02512,
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,14,02,66,0,63794.349208331,63,30.4,21780746.772,564.589,0.2,09,1944692.874,0.01234,2,27,036,9,4,1,1,03012,N,F,
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,15,02,67,0,63794.357801246,60,28.1,19204655.658,-27.819,0.3,01,2557.472,0.01169,2,83,024,9,4,1,1,00148,P,F,1,5
+10-02 15:43:10.740  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,16,02,68,0,63794.352149495,60,29.4,20899008.035,-705.818,0.2,01,-2112403.584,0.01169,2,40,218,9,4,1,1,03779,P,
+10-02 15:43:10.741  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,17,02,74,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,01,329,,,,,,,,1,0*5E
+10-02 15:43:10.741  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,18,02,75,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,017,,,,,,,,1,0*5D
+10-02 15:43:10.741  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,19,02,81,0,63794.349457287,190,23.2,21706111.760,547.439,0.4,01,1846558.917,0.03701,2,28,137,9,4,2,1,02929,N,F
+10-02 15:43:10.741  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,20,02,82,0,63794.357778280,76,24.4,19211540.838,-42.322,0.4,01,-28226.146,0.01494,2,79,109,9,4,1,1,00225,P,F,1
+10-02 15:43:10.741  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $PSGME,21,21,02,83,0,0.000000000,,28.0,0.000,-657.888,0.2,01,62709.928,0.00000,0,46,327,9,1,1,0,03519,P,F,1,3*6D
+10-02 15:43:10.748  1363  1363 I StdFitBuilder: [2] [2] checkOpen opening /sdcard/exports/2021-10-02-144309-ELEMNT BOLT 981E-29-0.fit
+10-02 15:43:10.762  1363  1363 V StdFitBuilder: [2] [2] encodeFileId
+10-02 15:43:10.805  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.850  1363  1363 V StdValueHistoryHelper: [2] [2] onPoll feeding history StdValue [NOT_SOURCED CruxDefn [DISTANCE ACCUM StdPeriod [WORKOUT]]]
+10-02 15:43:10.850  1363  1363 V StdValueHistoryHelper: [2] [2] onPoll feeding history StdValue [NOT_SOURCED CruxDefn [ELEVATION LAST StdPeriod [WORKOUT]]]
+10-02 15:43:10.870  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E01C)
+10-02 15:43:10.871  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.871  1363  1566 V BWorkoutCharacteristic: [186] << onCharacteristicWriteRequest GET_WORKOUT_STATUS
+10-02 15:43:10.871  1363  1566 V BWorkoutCharacteristic: [186] >> BWorkoutStateUtils getBWorkoutStatus in handleReq_GetWorkoutStatus
+10-02 15:43:10.903  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.903  1363  1363 I StdSessionManager: [2] [2] [Active] onPoll localBatteryPercent=88.0
+10-02 15:43:10.908  1363  1363 V StdElevationProcessorBarom: [2] checkCalibrateInWorkout no new calibration info
+10-02 15:43:10.913  1363  1566 V BWorkoutCharacteristic: [186] << BWorkoutStateUtils onComplete in handleReq_GetWorkoutStatus
+10-02 15:43:10.913  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-WO-157 1
+10-02 15:43:10.915  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-157 [00 1D 00 01 01 +7]
+10-02 15:43:10.915  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:10.916  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:10.918  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-157 1
+10-02 15:43:10.919  1363  1363 V StdLocationProcessorGps: [2] checkNewData fixDeltaMs -1632087568204
+10-02 15:43:10.935  1363  1363 V StdSegmentManager: [2] getThread creating HandlerThreadPoster
+10-02 15:43:10.936  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:10.937  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:10.937  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 21ms
+10-02 15:43:10.939  1363  1363 V HandlerThreadPoster-LogCount: [2] increment current=14 max=14 total=14
+10-02 15:43:10.943  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-157 28ms
+10-02 15:43:10.943  1363  1741 I StdSegmentManager: [243] getCheapRuler creating 43.64584833333333
+10-02 15:43:10.944  1363  1363 V TempHelper: [2] notifyTemperatureData TemperatureCapabilityData [Temperature [degC=25.43000030517578]]
+10-02 15:43:10.945  1363  1363 V BaromHelper: [2] notifyPressureData PressureCapabilityData [pressureNpM2=98507 stdElevM=241 calibElevM=292.07958414155246]
+10-02 15:43:10.956  1363  1741 V StdGeoHashHelper: [243] [243] hashesToCoverArea lat=43.64584833333333 lng=-72.46412166666667 radiusM=1600.0
+10-02 15:43:10.957  1363  1741 V StdGeoHashHelper: [243] [243] hashesToCoverArea topLat=43.65602213393984 bottomLat=43.635672809346296 leftLon=-72.4781848339207 rightLon=-72.4500632626336
+10-02 15:43:10.968  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.000  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.049  1363  1741 V BADatabase: [243] query StdSegmentDao [geoHash like dru2%] returned 0 results
+10-02 15:43:11.049  1363  1741 V StdRunnable: [243] StdSegmentManager-checkRefreshSegmentsPhase1 took 108 ms
+10-02 15:43:11.068  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.080  1363  1363 V BTLEGattSM-TICKR755E: [2] [CONNECTING << POLL] still connecting...
+10-02 15:43:11.081  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [104bpm]
+10-02 15:43:11.081  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.7333333492279053 HEART_BEATS=0.8504250049591064]
+10-02 15:43:11.081  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.0839284360408783 CALORIES=0.04093760624527931]
+10-02 15:43:11.081  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.0839284360408783 CALORIES_HR=0.04093760624527931]
+10-02 15:43:11.087  1363  1363 V GPSDevice: [2] onLocationChanged 1098223520 loc=43.645895,-72.464117 alt=287.34 horAcc=10.60 bearing=6.00 gpsSpeed=4.02 sats=12
+10-02 15:43:11.087  1363  1363 V GPSDevice: [2] getBestSpeed horAcc > 4m, reset MAs and use gps speed
+10-02 15:43:11.088  1363  1363 V GPSDevice: [2] notifyGpsData GpsData [ loc=43.645895,-72.464117 alt=287.34 moving=true spd=4.02 spdIsGps=true horAcc=10.60 dist=28.85 head=6.00 sats=12]
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GPGGA,144316.00,4338.7537,N,07227.8470,W,1,12,0.8,292.1,M,-32.7,M,,*52
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GNGLL,4338.7537,N,07227.8470,W,144316.00,A,A*61
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GNGSA,A,3,02,05,06,13,15,18,20,29,,,,,1.4,0.8,1.1,1*3B
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GNGSA,A,3,66,67,68,81,,,,,,,,,1.4,0.8,1.1,2*39
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GPGSV,4,1,13,02,47,111,32,05,78,316,35,06,06,113,18,07,09,055,23,0*6E
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185790 $GPGSV,4,2,13,11,38,104,,13,45,157,27,15,29,195,29,18,12,298,24,0*6C
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $GPGSV,4,3,13,20,57,055,36,25,03,238,21,26,02,321,,29,56,281,30,0*6D
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $GPGSV,4,4,13,30,10,087,27,,,,,,,,,,,,,0*5F
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $GLGSV,2,1,08,66,27,036,27,67,83,024,34,68,40,218,29,74,01,329,,0*7C
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $GLGSV,2,2,08,75,02,017,,81,28,137,25,82,79,109,24,83,46,327,25,0*74
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $GNRMC,144316.00,A,4338.7537,N,07227.8470,W,7.8,6.0,021021,,,A,V*25
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $GNVTG,6.0,T,,M,7.8,N,14.5,K,A*2A
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $GNZDA,144316.00,02,10,2021,,*7F
+10-02 15:43:11.093  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSEPU,15.6,10.6,8.0,7.0,11.4,2.49,1.54,5.4,0.88,1.27,1.96*4B
+10-02 15:43:11.094  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSVLF,14.47,14.47,6.0,1.50,14.37,0.60*5A
+10-02 15:43:11.094  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,1,01,02,0,571413.348487943,40,31.5,21996841.044,206.250,0.2,01,633793.555,0.00779,2,47,111,9,4,2,1,01083,N,F,1
+10-02 15:43:11.094  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,2,01,05,0,571413.354675351,10,34.1,20141902.981,-138.912,0.1,01,-336201.834,0.00195,1,78,316,9,4,1,1,00729,P,F
+10-02 15:43:11.099  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,3,01,06,0,571413.338145336,140,17.0,25097476.774,474.899,0.8,09,1796108.544,0.02727,2,06,113,9,4,2,1,02495,N,F
+10-02 15:43:11.123  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,4,01,07,0,571413.338086900,23,22.9,25114995.373,-228.419,0.5,01,-417042.651,0.00455,1,09,055,9,4,1,0,01200,P,F
+10-02 15:43:11.131  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.133  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,5,01,11,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,38,104,,,,,,,,1,0*6A
+10-02 15:43:11.133  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,6,01,13,0,571413.350148489,93,26.3,21499021.865,-635.430,0.3,01,-2088916.568,0.01818,2,45,157,9,4,2,1,03339,P,
+10-02 15:43:11.145  1363  1363 V BAAmbientLightManager: [2] << SensorEventListener onSensorChanged 598000
+10-02 15:43:11.150  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,7,01,15,0,571413.346031020,66,28.3,22733408.190,-824.939,0.3,01,-2715228.425,0.01299,2,29,195,9,4,2,1,04335,P,
+10-02 15:43:11.156  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.157  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E01C)
+10-02 15:43:11.158  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 1 line
+10-02 15:43:11.159  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E01C)
+10-02 15:43:11.170  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,8,01,18,0,571413.340542579,13,23.6,24378801.393,-737.033,0.5,01,-2048267.802,0.00260,1,12,298,9,4,2,1,03873,P,
+10-02 15:43:11.190  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,9,01,20,0,571413.352639351,10,35.5,20752280.233,175.274,0.1,01,522841.082,0.00195,1,57,055,9,4,1,1,00921,N,F,1
+10-02 15:43:11.190  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,10,01,25,0,571413.336712164,80,21.0,25527130.945,440.110,0.6,01,1530438.520,0.01558,2,03,238,9,4,2,1,02312,N,F
+10-02 15:43:11.213  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:11.213  1363  1566 V BWorkoutCharacteristic: [186] << onCharacteristicWriteRequest WORKOUT_DATA_V1
+10-02 15:43:11.214  1363  1566 V BWorkoutCharacteristic: [186] handleReq_GetWorkoutDataV1 65535 LAT LAST null
+10-02 15:43:11.214  1363  1566 V BWorkoutCharacteristic: [186] handleReq_GetWorkoutDataV1 LIVE LAT LAST 43.64584833333333
+10-02 15:43:11.214  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-WO-159 1
+10-02 15:43:11.214  1363  1566 V BWorkoutCharacteristic: [186] << onCharacteristicWriteRequest WORKOUT_DATA_V1
+10-02 15:43:11.215  1363  1566 V BWorkoutCharacteristic: [186] handleReq_GetWorkoutDataV1 65535 LON LAST null
+10-02 15:43:11.215  1363  1566 V BWorkoutCharacteristic: [186] handleReq_GetWorkoutDataV1 LIVE LON LAST -72.46412166666667
+10-02 15:43:11.215  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-WO-159 2
+10-02 15:43:11.215  1363  1566 V BWorkoutCharacteristic: [186] << onCharacteristicWriteRequest WORKOUT_DATA_V2_REQ_LAST
+10-02 15:43:11.221  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-159 [02 FF FF 58 06 +13]
+10-02 15:43:11.221  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:11.222  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-159 1
+10-02 15:43:11.223  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:11.230  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,11,01,26,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,321,,,,,,,,1,0*57
+10-02 15:43:11.230  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:11.231  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-159 10ms
+10-02 15:43:11.232  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-159 [02 FF FF 59 06 +13]
+10-02 15:43:11.232  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 2
+10-02 15:43:11.232  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-159 1
+10-02 15:43:11.233  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,12,01,29,0,571413.351465300,83,29.1,21104251.971,-244.339,0.2,01,-974023.371,0.01623,2,56,281,9,4,1,1,01284,P,
+10-02 15:43:11.234  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 12ms
+10-02 15:43:11.234  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:11.235  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,13,01,30,0,571413.338738414,130,26.9,24919676.423,-476.275,0.3,01,-1224853.570,0.02532,2,10,087,9,4,1,0,02502,
+10-02 15:43:11.239  1363  1566 V BWorkoutCharacteristic: [186] handleReq_GetWorkoutDataV2 CruxBoltWorkoutDataReq [workoutNum=29 defnCount=4] remainingCount=0
+10-02 15:43:11.249  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E01C)
+10-02 15:43:11.249  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:11.250  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 15ms
+10-02 15:43:11.250  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-159 19ms
+10-02 15:43:11.250  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 08 00]
+10-02 15:43:11.250  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:11.250  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1
+10-02 15:43:11.251  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:11.252  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,14,02,66,0,63795.349206487,26,26.3,21781419.581,567.039,0.4,01,1947700.427,0.00519,1,27,036,9,4,1,1,03025,N,F,
+10-02 15:43:11.253  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,15,02,67,0,63795.357801301,93,33.1,19204759.010,-26.915,0.1,01,2411.842,0.01818,2,83,024,9,4,1,1,00144,P,F,1,5
+10-02 15:43:11.257  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:11.258  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 8ms
+10-02 15:43:11.258  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-FILE-306 8ms
+10-02 15:43:11.277  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,16,02,68,0,63795.352151853,53,28.4,20898421.097,-706.621,0.3,01,-2116182.237,0.01039,2,40,218,9,4,1,1,03783,P,
+10-02 15:43:11.290  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,17,02,74,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,01,329,,,,,,,,1,0*5E
+10-02 15:43:11.291  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,18,02,75,0,0.000000000,,0.0,0.000,0.000,0.0,00,0.000,0.00000,0,02,017,,,,,,,,1,0*5D
+10-02 15:43:11.309  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,19,02,81,0,63795.349455446,206,24.2,21706783.659,547.665,0.4,01,1849486.537,0.04026,2,28,137,9,4,2,1,02930,N,F
+10-02 15:43:11.310  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,20,02,82,0,63795.357778379,70,23.7,19211630.917,-29.383,0.4,09,-28357.995,0.01364,2,79,109,9,4,2,1,00156,P,F,1
+10-02 15:43:11.315  1363  1566 V BWorkoutCharacteristic-WorkoutDataReqReceiver: [186] sendRsp
+10-02 15:43:11.315  1363  1363 V BWorkoutCharacteristic: [2] >> AsyncTaskV2 handleReq_GetWorkoutDataV2 start
+10-02 15:43:11.315  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-WO-324 1
+10-02 15:43:11.317  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_LEFT 2.5]
+10-02 15:43:11.317  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_TORQUE_EFFECTIVENESS_RIGHT 0.0]
+10-02 15:43:11.317  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_LEFT 0.5]
+10-02 15:43:11.317  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE_PEDAL_SMOOTHNESS_RIGHT 0.0]
+10-02 15:43:11.319  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-324 [16 01 00 00]
+10-02 15:43:11.319  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:11.319  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-324 1
+10-02 15:43:11.320  1363  1566 V BWorkoutCharacteristic: [186] onCharacteristicWriteRequest mWorkoutDataV2ReqReceiver.addPacket OK
+10-02 15:43:11.320  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:11.320  1363  1566 V BWorkoutCharacteristic: [186] << onCharacteristicWriteRequest WORKOUT_DATA_V2_REQ_LAST
+10-02 15:43:11.323  1363  1566 V BWorkoutCharacteristic: [186] handleReq_GetWorkoutDataV2 CruxBoltWorkoutDataReq [workoutNum=29 defnCount=22] remainingCount=0
+10-02 15:43:11.324  1363  1566 V BWorkoutCharacteristic-WorkoutDataReqReceiver: [186] sendRsp
+10-02 15:43:11.325  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-WO-324 2
+10-02 15:43:11.325  1363  1566 V BWorkoutCharacteristic: [186] onCharacteristicWriteRequest mWorkoutDataV2ReqReceiver.addPacket OK
+10-02 15:43:11.325  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:11.326  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 7ms
+10-02 15:43:11.326  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-324 7ms
+10-02 15:43:11.326  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-324 [16 02 00 00]
+10-02 15:43:11.327  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:11.327  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-324 1
+10-02 15:43:11.328  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:11.330  1363  1527 V BWorkoutCharacteristic: [168] << AsyncTaskV2 handleReq_GetWorkoutDataV2 onBackground waited 15ms
+10-02 15:43:11.331  1363  1363 V GPSDevice: [2] onNmeaMessage 1633185791 $PSGME,21,21,02,83,0,0.000000000,,24.5,0.000,-674.976,0.5,09,59143.657,0.00000,0,46,327,9,1,1,0,03610,P,F,1,3*67
+10-02 15:43:11.331  1363  1363 V BWorkoutCharacteristic: [2] >> AsyncTaskV2 handleReq_GetWorkoutDataV2 start
+10-02 15:43:11.334  1363  1529 V BWorkoutCharacteristic: [170] << AsyncTaskV2 handleReq_GetWorkoutDataV2 onBackground waited 2ms
+10-02 15:43:11.335  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [TIME FIRST StdPeriod [WORKOUT]] 1 1.633185789E12]
+10-02 15:43:11.335  1363  1527 V BWorkoutCharacteristic: [168] getCruxDefnValue 29 CruxDefnValue [CruxDefn [TIME FIRST StdPeriod [WORKOUT]] 1 1.633185789E12]
+10-02 15:43:11.337  1363  1527 V BWorkoutCharacteristic: [168] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DISTANCE ACCUM StdPeriod [WORKOUT]] 1 4.660531520843506]
+10-02 15:43:11.337  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DISTANCE ACCUM StdPeriod [WORKOUT]] 1 4.660531520843506]
+10-02 15:43:11.338  1363  1527 V BWorkoutCharacteristic: [168] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DISTANCE ACCUM_OVER_TIME StdPeriod [WORKOUT]] 1 3.4444470405578613]
+10-02 15:43:11.338  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DISTANCE ACCUM_OVER_TIME StdPeriod [WORKOUT]] 1 3.4444470405578613]
+10-02 15:43:11.339  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DURATION_ACTIVE ACCUM StdPeriod [WORKOUT]] 1 2338.0]
+10-02 15:43:11.339  1363  1527 V BWorkoutCharacteristic: [168] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DURATION_ACTIVE ACCUM StdPeriod [WORKOUT]] 1 2338.0]
+10-02 15:43:11.340  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [SPEED MAX StdPeriod [WORKOUT]] 1 3.4444470405578613]
+10-02 15:43:11.340  1363  1527 V CmdQueue-BTLECmdQueue: [168] add BxCA-WO-321-0 2
+10-02 15:43:11.340  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [POWER_BIKE MAX StdPeriod [WORKOUT]] 1 185.57479858398438]
+10-02 15:43:11.342  1363  1363 V BWorkoutCharacteristic: [2] << AsyncTaskV2 handleReq_GetWorkoutDataV2 onComplete waited 15 took 11ms
+10-02 15:43:11.343  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [WORK_BIKE ACCUM_OVER_TIME StdPeriod [WORKOUT]] 1 121.15126953125]
+10-02 15:43:11.343  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [CADENCE MAX StdPeriod [WORKOUT]] 1 1.6981757879257202]
+10-02 15:43:11.344  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [REVS ACCUM_OVER_TIME StdPeriod [WORKOUT]] 1 1.7157546997070312]
+10-02 15:43:11.345  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [HEARTRATE MAX StdPeriod [WORKOUT]] 1 1.7333333492279053]
+10-02 15:43:11.346  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [HEART_BEATS ACCUM_OVER_TIME StdPeriod [WORKOUT]] 1 1.6976139727699868]
+10-02 15:43:11.347  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DURATION_TOTAL ACCUM StdPeriod [WORKOUT]] 1 2347.0]
+10-02 15:43:11.348  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [DURATION_PAUSED ACCUM StdPeriod [WORKOUT]] 1 -1.0]
+10-02 15:43:11.348  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [WORKOUT_TYPE LAST StdPeriod [WORKOUT]] 1 0.0]
+10-02 15:43:11.349  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [POWER_BIKE_TSS LAST StdPeriod [WORKOUT]] 5 0.0]
+10-02 15:43:11.349  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [POWER_BIKE_IF LAST StdPeriod [WORKOUT]] 5 0.0]
+10-02 15:43:11.349  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [POWER_BIKE_NP LAST StdPeriod [WORKOUT]] 5 0.0]
+10-02 15:43:11.349  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [WORK_BIKE ACCUM StdPeriod [WORKOUT]] 1 151.4390869140625]
+10-02 15:43:11.350  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [LAT LAST StdPeriod [WORKOUT]] 1 43.64584833333333]
+10-02 15:43:11.350  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [LON LAST StdPeriod [WORKOUT]] 1 -72.46412166666667]
+10-02 15:43:11.350  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [LAT FIRST StdPeriod [WORKOUT]] 1 43.64584833333333]
+10-02 15:43:11.351  1363  1529 V BWorkoutCharacteristic: [170] getCruxDefnValue 29 CruxDefnValue [CruxDefn [LON FIRST StdPeriod [WORKOUT]] 1 -72.46412166666667]
+10-02 15:43:11.352  1363  1529 V CmdQueue-BTLECmdQueue: [170] add BxCA-WO-321-0 3
+10-02 15:43:11.354  1363  1363 V BWorkoutCharacteristic: [2] << AsyncTaskV2 handleReq_GetWorkoutDataV2 onComplete waited 2 took 21ms
+10-02 15:43:11.358  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:11.358  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.358  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-324 32ms
+10-02 15:43:11.359  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-321-0 [15 01 00 02 1D +47]
+10-02 15:43:11.359  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 2
+10-02 15:43:11.359  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 32ms
+10-02 15:43:11.359  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-321-0 1
+10-02 15:43:11.359  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:11.369  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:11.370  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 10ms
+10-02 15:43:11.370  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-321-0 12ms
+10-02 15:43:11.370  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-WO-321-0 [15 02 00 02 1D +184]
+10-02 15:43:11.370  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:11.370  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-WO-321-0 1
+10-02 15:43:11.370  1363  1469 V CmdQueue-BANordicHciAdapter: [112] >> HCI:47 1
+10-02 15:43:11.395  1363  1476 V BBtleManager: [150] << SVR notif sent OK
+10-02 15:43:11.395  1363  1469 V CmdQueue-BANordicHciAdapter: [112] << HCI:47 25ms
+10-02 15:43:11.396  1363  1413 V CmdQueue-BTLECmdQueue: [110] << BxCA-WO-321-0 25ms
+10-02 15:43:11.458  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.491  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 1 line
+10-02 15:43:11.522  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.567  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE=1.5550493001937866 REVS=2.01589298248291]
+10-02 15:43:11.569  1363  1552 V notifyCrankRevsData: [174] com.wahoofitness.connector.conn.characteristics.crux.e$d@8212807
+10-02 15:43:11.569  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CADENCE_BIKE=1.5550493001937866 CRANK_REVS=2.01589298248291]
+10-02 15:43:11.573  1363  1548 V notifyHeartrateData: [171] Heartrate.Data [105bpm]
+10-02 15:43:11.573  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [HEARTRATE=1.7666666507720947 HEART_BEATS=0.8610000014305115]
+10-02 15:43:11.574  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [TORQUE_BIKE 3.4375]
+10-02 15:43:11.574  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER 81.1471176147461]
+10-02 15:43:11.574  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK deltaMs = 1245 deltaValue = 32.53127670288086]
+10-02 15:43:11.575  1363  1552 V CruxCapabilityHelper: [174] notifyCruxInstantData CruxInstantPacket [POWER_BIKE 81.1471176147461]
+10-02 15:43:11.575  1363  1552 V CruxCapabilityHelper: [174] notifyCruxDeltaData CruxDeltaPacket [WORK_BIKE deltaMs = 1245 deltaValue = 32.53127670288086]
+10-02 15:43:11.575  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.03358665853738785 CALORIES=0.03253127634525299]
+10-02 15:43:11.575  1363  1552 V CruxCapabilityHelper: [174] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_PWR=0.03358665853738785 CALORIES_PWR=0.03253127634525299]
+10-02 15:43:11.583  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE=0.08749120682477951 CALORIES=0.0421692319214344]
+10-02 15:43:11.584  1363  1548 V CruxCapabilityHelper: [171] notifyCruxRateAccumData CruxRateAccumPacket [CALORIE_RATE_HR=0.08749120682477951 CALORIES_HR=0.0421692319214344]
+10-02 15:43:11.620  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.718  1363  1476 I chatty  : uid=10047(com.wahoofitness.bolt) HciSerialTransp identical 3 lines
+10-02 15:43:11.737  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.749  1363  1363 D BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph x span:  3218.69
+10-02 15:43:11.749  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph user moved past threshold, updateGraph
+10-02 15:43:11.749  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph updateGraph
+10-02 15:43:11.750  1363  1363 D BGraphViewUserPlanned: [2] adjustAxisPlannedRemaining
+10-02 15:43:11.754  1363  1363 V BClimbFragment-BAClimbGraphViewAdapter: [2] refreshGraph 4 X=BAxis [0.0 74760.0] Y=BAxis [-26.008295 546.1742]
+10-02 15:43:11.795  1363  1476 V BANordicBluetoothGattServer: [150] onHciMesg [10:60] RECEIVE_RAW_DATA_FROM_CENTRAL (handle: 4, service UUID: EE06, characteristic UUID: E036)
+10-02 15:43:11.806  1363  1566 V CmdQueue-BTLECmdQueue: [186] add BxCA-FILE-306 1
+10-02 15:43:11.807  1363  1566 V BFileCharacteristic: [186] << onCharacteristicWriteRequest GET_FILE_INFOS_REQ
+10-02 15:43:11.807  1363  1413 V BBtleManager: [110] >> SVR notif BxCA-FILE-306 [0C 07 08 00]
+10-02 15:43:11.807  1363  1413 V CmdQueue-BANordicHciAdapter: [110] add HCI:47 1
+10-02 15:43:11.807  1363  1413 V CmdQueue-BTLECmdQueue: [110] >> BxCA-FILE-306 1

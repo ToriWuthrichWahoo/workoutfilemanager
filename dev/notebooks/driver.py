@@ -3,13 +3,15 @@
 #! %load_ext autoreload
 #! %autoreload 2
 import sys
+import os
 
 sys.path.insert(0, "../../")
 
 # %% Example of how to run the workout file manager
 from workoutfilemanager.WorkoutFileManager import WorkoutFileManager
 manager = WorkoutFileManager()
-data = manager.run("/Users/toriwuthrich/Documents/data/bolt/backup_ascent_descent_logs/20211002_TW_hilly_gravel_ride_test")
+path = os.path.join(os.getcwd(), "dev/data/20211002_TW_hilly_gravel_ride_fit")
+data = manager.run(path)
 
 # %% Example of how to access data frames
 data[0].print()
