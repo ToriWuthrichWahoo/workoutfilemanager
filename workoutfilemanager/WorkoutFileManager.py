@@ -15,7 +15,25 @@ class WorkoutFileManager:
     def __init__(self):
         self.collection: list[WorkoutFile] = []
         self.console = Console()
-        # self.visualizer = Visualizer()
+    
+    def run(self, path: str) -> list[WorkoutFile]:
+        """Run the workout file manager on files in the selected folder
+
+        Parameters
+        ----------
+        path : str
+            Workout folder path
+
+        Returns
+        -------
+        list[WorkoutFile]
+            List of WorkoutFile objects
+        """
+        for ending in [".fit", ".gpx", ".txt"]:
+            for file in self.getfilesrec(path, ending=ending):
+                self.add(file)
+        self.sort()
+        return self.collection
 
     def add(self, file: str) -> None:
         """Add workout to collection.
@@ -98,16 +116,4 @@ class WorkoutFileManager:
             return WorkoutGpxFile(file)
         elif file.lower().endswith(".txt"):
             return WorkoutLogFile(file)
-        # elif file.lower().endswith(".txt.gz"):
-        #  command = f"""unzip  -o -f {file} -d {file.strip(".gz")}"""
-        #  print(command)
-        #   try:
-        #       subprocess.call(command)
-        #   except Exception as e:
-        #       print(e)
-        #    try:
-        #        return WorkoutNmeaFile(file.strip(".gz"))
-        #    except Exception as e:
-        #        print(e)
-        #        return None
         return None
