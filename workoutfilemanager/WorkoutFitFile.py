@@ -14,8 +14,8 @@ class WorkoutFitFile(WorkoutFile):
 
     def __init__(self, path: str):
         super().__init__(path)
-        paths = Paths()
-        self.crFitTool: str = paths.crFitToolPath
+        # paths = Paths()
+        # self.crFitTool: str = paths.crFitToolPath
         self.crFit_output_files: list[str] = [
             "ant",
             "CLM_WORKOUT_CUSTOM_ALERT",
@@ -34,7 +34,7 @@ class WorkoutFitFile(WorkoutFile):
 
     def print(self) -> None:
         super().print()
-        self.console.print(f"crFitTool: {self.crFitTool}")
+        self.console.print(f"""crFitTool: {self.pathfinder.get("crFitTool")}""")
 
     def dataframe(self, *args, **kwargs) -> Union[None, pd.DataFrame]:
         return self.dfdict.get("records")
@@ -77,7 +77,9 @@ class WorkoutFitFile(WorkoutFile):
         # to hide the generated files.
         output = self.csv_output_name
 
-        command = f"""{self.crFitTool} --in "{input}" --csv "{output}" """
+        command = (
+            f"""{self.pathfinder.get("crFitTool")} --in "{input}" --csv "{output}" """
+        )
         kwargs = {"shell": True}  # type: Dict[str, Any]
         if mute:
             kwargs["stderr"] = subprocess.DEVNULL
@@ -107,17 +109,18 @@ class WorkoutFitFile(WorkoutFile):
                 if not df.empty:
                     self.dfdict[ending] = df
 
-    def _fill_missing_with_nan(self):
+    def _fill_missing_with_nan(self) -> None:
         df = self.dataframe()
-        df = (
-            df.set_index("seconds")
-            .reindex(
-                np.arange(df["seconds"].min(), df["seconds"].max() + 1),
-                fill_value=np.nan,
+        if df is not None:
+            df = (
+                df.set_index("seconds")
+                .reindex(
+                    np.arange(df["seconds"].min(), df["seconds"].max() + 1),
+                    fill_value=np.nan,
+                )
+                .reset_index()
             )
-            .reset_index()
-        )
-        self.dfdict["records"] = df
+            self.dfdict["records"] = df
 
     def _remove_created_files(self) -> None:
         for file, _ in self._csv_file_generator():

@@ -8,7 +8,7 @@ lint:
 
 .PHONY: unit
 unit:
-	poetry run pytest --ignore=dev/
+	poetry run pytest --ignore=dev/ --cov-fail-under=40
 
 .PHONY: package
 package:

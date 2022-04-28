@@ -36,6 +36,7 @@ numpy = "^1.22.3"
 matplotlib = "^3.5.1"
 gpx-converter = "^2.0.0"
 pynmeagps = "^1.0.8"
+ds-pathfinder = {git = "ssh://git@github.com/WahooFitness/ds-pathfinder.git", rev = "main"}
 
 
 

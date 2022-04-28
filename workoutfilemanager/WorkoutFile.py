@@ -7,6 +7,9 @@ from matplotlib.pyplot import cm
 import numpy as np
 from typing import Union
 import shutil
+import numpy.typing as npt
+from typing import Any
+from ds_pathfinder.Pathfinder import Pathfinder
 
 
 class WorkoutFile(ABC):
@@ -30,6 +33,7 @@ class WorkoutFile(ABC):
         self.basename: str = os.path.basename(path)
         self.console = Console(highlight=False, style="grey58")
         self.dfdict: dict[str, pd.DataFrame] = {}
+        self.pathfinder = Pathfinder()
 
     def print(self) -> None:
         """Print information about workout."""
@@ -39,7 +43,7 @@ class WorkoutFile(ABC):
 
     @abstractmethod
     def dataframe(self, *args, **kwargs) -> Union[None, pd.DataFrame]:
-        """Returns a dataframe that stores information for a workout. """
+        """Returns a dataframe that stores information for a workout."""
         pass
 
     @abstractmethod
@@ -48,7 +52,7 @@ class WorkoutFile(ABC):
         pass
 
     @abstractmethod
-    def time(self, *args, **kwargs) -> np.ndarray:
+    def time(self, *args, **kwargs) -> npt.NDArray[Any]:
         """Return time data.
 
         Returns

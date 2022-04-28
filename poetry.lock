@@ -228,6 +228,28 @@ toml = "*"
 pipenv = ["pipenv"]
 
 [[package]]
+name = "ds-pathfinder"
+version = "0.1.0"
+description = "A helper to get the correct paths to various folders and binaries."
+category = "main"
+optional = false
+python-versions = ">=3.9, <3.11"
+develop = false
+
+[package.dependencies]
+rich = "^12.2.0"
+
+[package.extras]
+docs = ["sphinx (>=4.5,<5.0)", "sphinx-autodoc-typehints (>=1.18,<2.0)", "m2r2 (>=0.3,<0.4)", "tomlkit (>=0.10,<0.11)"]
+interactive = []
+
+[package.source]
+type = "git"
+url = "ssh://git@github.com/WahooFitness/ds-pathfinder.git"
+reference = "main"
+resolved_reference = "435e3c60345d4b6f0d69bc5a8a95e3a1de42837d"
+
+[[package]]
 name = "entrypoints"
 version = "0.4"
 description = "Discover and load entry points from installed packages."
@@ -1177,7 +1199,7 @@ interactive = []
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.9, <3.11"
-content-hash = "3d8c4cbe22114cf39c12d5664f1bc20b00e2f8a99712c2e9a535c8970d145140"
+content-hash = "1ef103c3fb7f3aa8403080bda125c3cd79118f6ecf41763119027ecf146c2c06"
 
 [metadata.files]
 alabaster = [
@@ -1388,6 +1410,7 @@ dparse = [
     {file = "dparse-0.5.1-py3-none-any.whl", hash = "sha256:e953a25e44ebb60a5c6efc2add4420c177f1d8404509da88da9729202f306994"},
     {file = "dparse-0.5.1.tar.gz", hash = "sha256:a1b5f169102e1c894f9a7d5ccf6f9402a836a5d24be80a986c7ce9eaed78f367"},
 ]
+ds-pathfinder = []
 entrypoints = [
     {file = "entrypoints-0.4-py3-none-any.whl", hash = "sha256:f174b5ff827504fd3cd97cc3f8649f3693f51538c7e4bdf3ef002c8429d42f9f"},
     {file = "entrypoints-0.4.tar.gz", hash = "sha256:b706eddaa9218a19ebcd67b56818f05bb27589b1ca9e8d797b74affad4ccacd4"},
